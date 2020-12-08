@@ -1,6 +1,6 @@
 
 
-# *Here are some my notes from Code 102 12/7/20*
+# *Matt's notes from Code 102 12/7/20*
 ## *The Growth Mindset*
   
   
@@ -21,3 +21,5 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
 
 Here is a (placeholder) photo of me and my dogs. 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+!
