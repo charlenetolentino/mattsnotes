@@ -1,6 +1,6 @@
 # *About me*
 
-My name is Matt Miguel and I came to Codefellows to peruse a career in software development. Currently I work at Zillow as a Pricing Analyst in the Acquisitions team of Zillow Offers. My hobbies include snowboarding, cooking, and annoying my dogs :dog:  :stuck_out_tongue_closed_eyes:
+My name is Matt Miguel and I came to Codefellows to peruse a career in software development. Currently I work at Zillow as a Pricing Analyst in the Acquisitions team of Zillow Offers. My hobbies include snowboarding :snowboarder:, cooking :bento:, and annoying my dogs :dog:
 
 
 
@@ -15,9 +15,9 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
   
   
   
-  First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+  First Header | Second Header | Third Header
+------------ | ------------- | --------------
+Content from cell 1 | Content from cell 2 | Stuff 3
+Content in the first column | Content in the second column | Stuff 3
   
   
