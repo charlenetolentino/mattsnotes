@@ -24,7 +24,3 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
 
 
 
-+ Item 1
-- Item 2
-  - Item 2a
-  - Item 2b
