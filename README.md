@@ -20,6 +20,5 @@
 My name is Matt Miguel and I came to Codefellows to peruse a career in software development. Currently I work at Zillow as a Pricing Analyst in the Acquisitions team of Zillow Offers. My hobbies include snowboarding, cooking, and annoying my dogs :dog:
 
 Here is a (placeholder) photo of me and my dogs. 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![This is me](download.png)
 
-!
