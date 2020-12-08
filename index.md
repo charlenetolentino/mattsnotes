@@ -1,9 +1,8 @@
 ## The purpose of this page is to finish lab 1a
 
-  Markdown files are was to present information to a user. It focuses on highlighting words and phrases using **bold** and _italic_ styles.
+  Markdown files is a way to present information to a user. It focuses on highlighting words and phrases using **bold** and _italic_ styles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+  In addtion to highlighting words Markdown can be used to list items in numbers and bulleted
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
