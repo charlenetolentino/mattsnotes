@@ -6,7 +6,7 @@
   
  The growth mindset is a way of reacting to challenges that come your way. It is through development and perseverance that a person can grow and continue to learn. There is power in knowing but there is even more power and great humility in saying _I don’t know but I will find out_.  In contrast a stagnant mind will give up too easily and find ways around learning something new. 
   
-  Below is a table that shows the diffrent thoghts a stagnant mind and a growing mind would think
+  Below is a table that shows the different thoughts a stagnant mind and a growing mind would think
   
   Stagnant Mind | Situation | Growing Mind
 ------------ | ------------- | --------------
