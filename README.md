@@ -1,10 +1,3 @@
-# *About me*
-
-My name is Matt Miguel and I came to Codefellows to peruse a career in software development. Currently I work at Zillow as a Pricing Analyst in the Acquisitions team of Zillow Offers. My hobbies include snowboarding, cooking, and annoying my dogs :dog:
-
-
-
-
 
 
 # *Here are some my notes from Code 102 12/7/20*
@@ -22,3 +15,9 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
 "But we've always do it this way" |Change| "Thats a different way of thinking. Let do it"
 
   
+# *About me*
+
+My name is Matt Miguel and I came to Codefellows to peruse a career in software development. Currently I work at Zillow as a Pricing Analyst in the Acquisitions team of Zillow Offers. My hobbies include snowboarding, cooking, and annoying my dogs :dog:
+
+Here is a (placeholder) photo of me and my dogs. 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
