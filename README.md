@@ -1,9 +1,8 @@
-# readingnotes12.7.102
 
-## Here are some my notes from Code 102 12/7/20
+# Here are some my notes from Code 102 12/7/20
 
   
-  
+  ## The Growth Mindset
   
   
   
