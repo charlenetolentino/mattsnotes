@@ -1,6 +1,6 @@
-## This is a test page
+## The purpose of this page is to finish lab 1a
 
-You can use the [editor on GitHub](https://github.com/jamiguel23/readingnotes12.7.102/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  Markdown files are was to present information to a user. It focuses on highlighting words and phrases using **bold** and _italic_ styles.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
