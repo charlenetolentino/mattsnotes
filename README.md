@@ -13,9 +13,9 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
   
  The growth mindset is a way of reacting to challenges that come your way. It is through development and perseverance that a person can grow and continue to learn. There is power in knowing but there is even more power and great humility in saying _I don’t know but I will find out_.  In contrast a stagnant mind will give up too easily and find ways around learning something new. 
   
+  Below is a table that shows the diffrent actions a stagnant mind and a growing mind would take
   
-  
-  First Header | Second Header | Third Header
+  Stagnant Mind | Situation | Growing Mind
 ------------ | ------------- | --------------
 Content from cell 1 | Content from cell 2 | Stuff 3
 Content in the first column | Content in the second column | Stuff 3
