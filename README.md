@@ -10,9 +10,9 @@
   
   Stagnant Mind | Situation | Growing Mind
 ------------ | ------------- | --------------
-"This is too hard. I want to quit" | Effort | "You miss 100% of the shots you don't take.-Wayne Gretzky" -Michael Scott
-"They try too hard" | Others Success | "How can I do that?"
-"But we've always do it this way" |Change| "Thats a different way of thinking. Let do it"
+"This is too hard. I want to quit" | **Effort** | "You miss 100% of the shots you don't take.-Wayne Gretzky" -Michael Scott
+"They try too hard" | **Others Success** | "How can I do that?"
+"But we've always do it this way" |**Change**| "Thats a different way of thinking. Let do it"
 
   
 # *About me*
