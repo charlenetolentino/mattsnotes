@@ -1,6 +1,6 @@
 
 
-# *Matt's notes from Code 102 12/7/20*
+# *Matt's notes*
 ## *The Growth Mindset*
   
   
