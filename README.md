@@ -1,3 +1,8 @@
+# About me
+
+My name is Matt Miguel and I came to Codefellows to peruse a career in software development. Currently I work at Zillow as a Pricing Analyst in the Acquisitions team of Zillow Offers. My hobbies include snowboarding, cooking, and annoying my dogs. 
+
+
 
 # Here are some my notes from Code 102 12/7/20
 ## *The Growth Mindset*
