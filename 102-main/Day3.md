@@ -10,7 +10,7 @@ TLDR; All Git is a DVCS, not all DVCS is Git.
 
 Below is a graphic of how a DVCS like Git works. Git files will be in one of 3 stages: Committed, Modified and Staged
     
-    Working (Working Directory)
+    Committed (Working Directory)
 	    This is the copy of the repository that an individual has saved to their local drive
     Modified (Staging Area)
 	    At this stage you can edit, add, and delete code
