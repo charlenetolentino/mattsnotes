@@ -1,4 +1,4 @@
-# This is where I will put content for day 1
+# Day 1 Notes
 
 ## *The Growth Mindset*
   

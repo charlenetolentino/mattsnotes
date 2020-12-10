@@ -1,4 +1,4 @@
-# This is where I will put content for day 2
+# Day 2 Notes
 
 ## What is a Text Editor?
 
