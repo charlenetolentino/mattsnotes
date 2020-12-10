@@ -1,4 +1,6 @@
 # Day 2 Notes
+[Home](/README.md) | [Back](/102-main/102TableofContents.md)
+
 
 ## What is a Text Editor?
 
@@ -12,3 +14,4 @@ Below is a list of third-party options with links for their download
   - Atom is a Github brainchild. Much VS it a variety of themes as well as syntax highlighting
 - Sublime Text https://www.sublimetext.com/ 
 	- Sublime is a premium editor that needs to be purchased for $70. It has all the features of the prior text editors and many more.
+
