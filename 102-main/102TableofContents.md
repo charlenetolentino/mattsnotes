@@ -2,8 +2,8 @@
 
  Here you will find my daily notes for code 102
 
-- [Home](/reading-notes/README.md)
-- [Day 1](/reading-notes/102-main/Day1.md)
-- [Day 2](/reading-notes/102-main/Day2.md)
-- [Day 3](/reading-notes/102-main/Day3.md)
+- [Home](/reading-notes/README.html)
+- [Day 1](/reading-notes/102-main/Day1.html)
+- [Day 2](/reading-notes/102-main/Day2.html)
+- [Day 3](/reading-notes/102-main/Day3.html)
 
