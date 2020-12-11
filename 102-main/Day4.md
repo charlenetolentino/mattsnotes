@@ -25,4 +25,5 @@ Then < li > is where you place the text for the navigation button.
 At the end of each command there must be an ending braket. In this case it is < /ul > and < /li > respectively.
 
 
-Note that HTML only 
+
+**Note:** HTML only work on the structre of the page. Any styling like pictures, text size, and fonts will be done in CSS.
