@@ -6,4 +6,5 @@
 - [Day 1](/reading-notes/102-main/Day1.html)
 - [Day 2](/reading-notes/102-main/Day2.html)
 - [Day 3](/reading-notes/102-main/Day3.html)
+- [Day 4](/reading-notes/102-main/Day4.html)
 
