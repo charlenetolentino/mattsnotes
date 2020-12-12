@@ -18,11 +18,11 @@ Below is a sample of a few lines in HTML
 
 This HTML code represents a navigation page on a web site. Notice the commands are in these brakets <> to help when the command begins and </> when it ends. 
 
-The < ul > command is telling what ever is written below will be and unordered list.
+The \<ul> command is telling what ever is written below will be and unordered list.
 
-Then < li > is where you place the text for the navigation button.
+Then \<li> is where you place the text for the navigation button.
 
-At the end of each command there must be an ending braket. In this case it is < /ul > and < /li > respectively.
+At the end of each command there must be an ending braket. In this case it is \</ul> and \</li> respectively.
 
 
 
