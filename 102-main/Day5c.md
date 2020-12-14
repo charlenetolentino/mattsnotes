@@ -22,7 +22,9 @@ Finally, when the input data is finally ready it will be sent to an output devic
 No matter how old all computers work in this basic way. 
 
 
-##How does a coumtper comptue?
+##How does a coumtper work?
+
+You might of heard that a comptuer only knows 2 things; 1 or 0. Thats only kind of true. Inside a computers processor there are billoions of switches that we can turn on or off (or set to 1 or 0). A single switch is called a bit. A series of bits is called a byte. With these groupings of bytes you are able to represents values such as numbers, letters, pictures, and sounds. We don't interact with these switches directly today but in the past programers physically had to turn on these bits to get the computer to work in the way they want. 
 
 
 
