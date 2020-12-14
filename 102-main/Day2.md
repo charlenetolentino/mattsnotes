@@ -8,10 +8,10 @@
 
 Below is a list of third-party options with links for their download
 
-- Visual Studio https://code.visualstudio.com/ 
+- [Visual Studio](/https://code.visualstudio.com/) 
 	- Visual Studios is what we will be using at Codefellows. It provides code completion and many different options for themes.
-- Atom https://atom.io/ 
+- [Atom](/https://atom.io/) 
   - Atom is a Github brainchild. Much VS it a variety of themes as well as syntax highlighting
-- Sublime Text https://www.sublimetext.com/ 
+- [Sublime Text](/https://www.sublimetext.com/) 
 	- Sublime is a premium editor that needs to be purchased for $70. It has all the features of the prior text editors and many more.
 
