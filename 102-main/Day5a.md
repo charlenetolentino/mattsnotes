@@ -15,7 +15,7 @@ Here is sample code of CSS line
 
 At the top you will see the _h1_ tag. This means that this styling command will only effect the _h1_ header. 
 
-The next line is the background color. In this case the color is chosen using a HEX Code
+The next line is the background color. In this case the color is chosen using a HEX Code.
 
 The following line is also a color command but for the lettering in the header. Colors can also be chosen using an rbg value
 
