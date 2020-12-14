@@ -1,4 +1,4 @@
-# Day 5 Notes
+# Lesson 6b Notes
 
 [Home](/README.md) | [Back](/102-main/102TableofContents.md)
 

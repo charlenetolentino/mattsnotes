@@ -1,4 +1,4 @@
-# Day 1 Notes
+# Lesson 1 Notes
  [Home](/README.md) | [Back](/102-main/102TableofContents.md)
 
 ## *The Growth Mindset*
