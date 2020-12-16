@@ -11,3 +11,4 @@
 - [Reading 6a](/reading-notes/102-main/Day5b.html)
 - [Reading 6b](/reading-notes/102-main/Day5c.html)
 - [Reading 7](/reading-notes/102-main/Day6.html)
+- [Reading 8](/reading-notes/102-main/Day7.html)
