@@ -9,9 +9,9 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
 
 ![This is me](download.png)
 
-# CodeFellows Class Notes Navigation
+# CodeFellows Class Reading Notes Navigation
 
-- [102](/102-main/102TableofContents.md)
-- [201](/201-main/201TableofContents.md)
+- [102 Reading Notes](/102-main/102TableofContents.md)
+- [201 Reading Notes](/201-main/201TableofContents.md)
 - 301 (Coming Soon)
 - 401 (Coming Soon)   
