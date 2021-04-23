@@ -15,3 +15,35 @@ For expample:
 
 It is vital to learn all the HTML tags to know which are appropriate to use at certain times.
 
+## Extra Markup
+
+**ID Attribute:**
+
+    <p id="insert text">
+
+Used to ***uniquely*** identify that element form the others on the page
+
+**Class Attrubute:**
+
+    <p class="insert text">
+
+Used to identify ***several*** elements as being different 
+
+***Block Elements:***
+
+    <h1></h1>
+    <p></p>
+    <ul></ul>
+
+These are used to crete a new line on the window
+
+***iframes:***
+
+    <iframe
+    width = "x"
+    height = "x"
+    img=>
+
+    </iframe>
+
+This is used when you want to create a little window inside the web browser
