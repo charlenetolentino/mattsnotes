@@ -1,7 +1,8 @@
 # Code 201 Table of Contents
 
- Here you will find my daily notes for code 201
+ **Here you will find my daily notes for code 201**
 
+- [Home](README.md)
 - [Daily Reading 1]
 - [Daily Reading 2]
 - [Daily Reading 3]
