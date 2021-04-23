@@ -89,13 +89,24 @@ Once you have learned all you can about the visitor you can now create a site ma
 
 **SiteMap**
 ![Site Map Example](/site-map.jpg) 
+
+
 PC: [Arts and Justice](/https://www.artsandjustice.org/graphic-design-3-project-6-app-wireframe-site-map/the-silver-lining-presentation-template-a-free-beautiful-template-for-marketer-17-638/)
 
 A site map will help you plan the final structure of your site
 
 **Wireframe**
 ![Wireframe Example](/wireframe.PNG)
+
+
 PC: [Diagram.io](https://app.diagrams.net/#G1_A_OEkC0MvwZf20gOn-W-YlYjL6HkmhV)
 
 A wireframe will help you creat  the layout of every web page.
 
+## What is a Script? ##
+
+A script is a series of instructions that a computer needs to achieve a goal. Think of it like a recipe or a manual. You need to complete each step-in order to achieve and result. One key difference between how a computer reads a set of instructions and how a human reads a set is that a computer needs to complete steps programmatically. A task such as cooking lunch needs to be broken down to a computer step by step. An example would be a human will be tasked to make a PB&J sandwich. Without even thinking the human will get some bread and slather the peanut butter and jelly on and complete the task. Making a PB&J is familiar to the human, so it seems like an effortless task. A computer needs to be told “go get the bread. Go get the peanut butter. Go get the Jam. Grab the knife” etc. A great way to writing script is using a flowchart to break down the process you want to achieve.
+
+## How to write Script? ##
+
+JavaScript is written by creating a JS file in you text editor using the app.js extension. You will need to link the app.js extension to your HTML using the \<script> element. 
