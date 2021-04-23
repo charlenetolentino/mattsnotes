@@ -2,7 +2,7 @@
 
  Here you will find my daily notes for code 102
 
-- [Home](README.html)
+- [Home](README.md)
 - [Reading 1](/reading-notes/102-main/Day1.html)
 - [Reading 2](/reading-notes/102-main/Day2.html)
 - [Reading 3](/reading-notes/102-main/Day3.html)
