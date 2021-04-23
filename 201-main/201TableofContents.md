@@ -3,7 +3,7 @@
  **Here you will find my daily notes for code 201**
 
 - [Home](README.md)
-- [Class 1](/reading-notes/201-main/class-01.html)
+- [Class 1](/reading-notes/201-main/class-01.md)
 - [Daily Reading 2]
 - [Daily Reading 3]
 - [Daily Reading 4]
