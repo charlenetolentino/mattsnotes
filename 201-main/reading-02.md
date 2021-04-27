@@ -53,3 +53,29 @@ Example
 Here is what declaring variables in JS looks like.
 
 With the addition of data types like string, numerical, and Boolean logic you can write code to make a PB&J. Just don’t ask me how (right now). 
+
+## Decisions and Loops
+
+Scripts will act differently depending how the user will interact with the site. To help the user on where to go on your webpage or get the information they are looking for, you will need incorporate and decision tree or a loop depending on the need of the user. 
+
+There are 2 componets ti a decision
+
+1. 	The expression is evaluated and returns a value
+2.	A conditional statement is made given a not expected value
+
+Evaluating a decision usually consists of it being a true or false statement 
+
+A condition statement is based on if/then/else. If the first condition is met, then it will execute without the running the then or else statements. If not, then the following script will run. 
+
+Exapmle
+
+    if (answer === 42) {
+        document.write( 'That is the meaning of life!')
+    } else {
+        document.write( 'Sorry. Try again...')
+    }
+
+In this if else statement if the input is equal to the number 42 then the site will write the text “That is the meaning of life!”)
+If that requirement is not correct, then the page will write “Sorry. Try again…”
+
+Using different operators and statements you are able to write dynamic functions on the web.
