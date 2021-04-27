@@ -4,7 +4,7 @@
 
 - [Home](README.md)
 - [Reading 1](reading-01.md)
-- [Daily Reading 2]
+- [Reading 2](reading-02.md)
 - [Daily Reading 3]
 - [Daily Reading 4]
 - [Daily Reading 5]
