@@ -1,4 +1,4 @@
-# Class 1  Notes
+# Reading 1 Notes
 
 [Home](/README.md) | [Back](/201-main/201TableofContents.md)
 
