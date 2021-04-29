@@ -5,7 +5,7 @@
 - [Home](README.md)
 - [Reading 1](reading-01.md)
 - [Reading 2](reading-02.md)
-- [Daily Reading 3]
+- [Reading 3](reading-03.md)
 - [Daily Reading 4]
 - [Daily Reading 5]
 - [Daily Reading 6]
