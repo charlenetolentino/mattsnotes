@@ -6,7 +6,7 @@
 - [Reading 1](reading-01.md)
 - [Reading 2](reading-02.md)
 - [Reading 3](reading-03.md)
-- [Daily Reading 4]
+- [Reading 4](reading-04.md)
 - [Daily Reading 5]
 - [Daily Reading 6]
 - [Daily Reading 7]
