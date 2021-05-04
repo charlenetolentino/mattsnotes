@@ -131,3 +131,7 @@ Here is an example of a function
 On the first line the function validateUserPassword() is declared. Inside the curly bracket are the variables that are declared as well as a while loop. When a var is declared in a function, this is called being in the local scope. Any var declared in the function will only be available to use inside unless you sure the return feature. The while loop is wanting a user input of “Yo” to break out of it. This function is not declared until the function name has been called later in the code as shown on the last line.
 
 ___
+
+## Pair Programming
+
+  Pair programming is a technique used to foster best coding practices. There are 2 roles when pair programming. There is the Driver, the person who is typing and handling the mechanics of coding on the computer. And there is the Navigator, the person who is directing the driver while thinking about how the code should run as well as double checking for proper syntax. This practice can help improve both partners effectiveness, collaboration skills, builds camaraderie within the team, as well as shows workplace readiness. Needless to say the practice of pair programming is a great tool for all levels of programmer. 
