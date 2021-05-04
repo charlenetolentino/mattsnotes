@@ -108,3 +108,26 @@ Float can also be used to create column on the page as opposed to the default li
       width: 150px;
       margin: 10;
     }
+
+___
+ ## Functions
+
+  
+Functions allow you to group a series of statements together to do a specific task. In doing this, the overall script will run faster due the lines of code being able run at specific time rather than them running all concurrently after one another. This can reduce the possibility of repeat code and make it a lot easier to read for the future. 
+
+Here is an example of a function
+
+    function validateUserPassword() {
+    var storedPassword = "Yo";
+    var userPassword =  "";
+
+    while(userPassword !== storedPassword) {
+        userPassword= prompt('Type "Yo"');
+    }
+
+    validateUserPassword ()
+
+
+On the first line the function validateUserPassword() is declared. Inside the curly bracket are the variables that are declared as well as a while loop. When a var is declared in a function, this is called being in the local scope. Any var declared in the function will only be available to use inside unless you sure the return feature. The while loop is wanting a user input of “Yo” to break out of it. This function is not declared until the function name has been called later in the code as shown on the last line.
+
+___
