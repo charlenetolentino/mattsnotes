@@ -52,3 +52,17 @@ ___
 
 In short, a typeface is a specific design of type. Adding specific styling to bold or italics is a from of typeface, different kinds of fonts such as Ariel and Time New Roman, spacing around words and letters, as well as text decoration like underlining, overlining, and strike through. In CSS you can easily add stylings like bold, underline and spacing to elements but denoting specific fonts can cause some issues like licensing and eventual output to the user due to copywrite. On every computer there is a preinstalled typeface. Therefore, some pages or applications on a Mac will look different on a Windows machine. Depending on the kind of type face you can use, the way you code in CSS will vary.
 
+___
+
+## JPEG vs. PNG vs. GIF
+
+<ul>
+      <li> JPEG – Photo containing natural scene where color variation is wide varying like a photo on your last vacation </li>
+      <li> PNG – Image that works well with transparency for text and images with logos and shapes </li>
+      <li> GIF – An Image that makes up and animation like your favorite moving meme </li>
+    </ul>
+
+NOTE:
+These are the main differences between the most popular image types in web development. Formatting these types of file will result in different outcomes. Since so much there tends to be more detail in a JPEG photo compressing it can result in less details. A PNG file can scale big or small but will lack color variety. Finally a GIF is unsuitable for transparent backgrounds. Choose the best file for your specific purpose. 
+
+
