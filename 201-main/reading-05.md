@@ -50,4 +50,5 @@ ___
 
 ## Typeface
 
+In short, a typeface is a specific design of type. Adding specific styling to bold or italics is a from of typeface, different kinds of fonts such as Ariel and Time New Roman, spacing around words and letters, as well as text decoration like underlining, overlining, and strike through. In CSS you can easily add stylings like bold, underline and spacing to elements but denoting specific fonts can cause some issues like licensing and eventual output to the user due to copywrite. On every computer there is a preinstalled typeface. Therefore, some pages or applications on a Mac will look different on a Windows machine. Depending on the kind of type face you can use, the way you code in CSS will vary.
 
