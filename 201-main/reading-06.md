@@ -2,6 +2,11 @@
 
 [Home](/README.md) | [Back](/201-main/201TableofContents.md)
 
+
+## The Problem Domain
+
+In the article, the author talks about what a problem domain is and why it is important. To program something initially, you need to know what problem you are trying to solve or what questions must be asked. Specifics must be talked about between collaborating team members. “It is very difficult to solve a problem before you know the question” writes the author. If a problem domain is too difficult it is ok to make it easier and narrowing a specific part of the problem. Reading this has opened my mind into more what it like to be a Software Developer. This is the human aspect of programming that I didn’t know was there and am happy to learn about it. 
+___
 ## Objects
 
 An object is a set of variables and functions grouped together to model something in the real world. A variable inside and Object is called a property. A function inside an object is a called a method. To create an object, you will first need to declare a variable and have it equal curly brackets. Then inside the curtly is when you add the properties and methods. After creating an object then you can call a method using dot notation. The period or dot is known as the member operator. 
