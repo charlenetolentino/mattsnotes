@@ -8,7 +8,7 @@
 - [Reading 3](reading-03.md)
 - [Reading 4](reading-04.md)
 - [Reading 5](reading-05.md)
-- [Daily Reading 6]
+- [Reading 6](reading-06.md)
 - [Daily Reading 7]
 - [Daily Reading 8]
 - [Daily Reading 9]
