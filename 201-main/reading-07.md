@@ -3,7 +3,9 @@
 [Home](/README.md) | [Back](/201-main/201TableofContents.md)
 
 
+## Domain Modeling
 
+A process of laying out a model of code for a specific problem. The model will describe different entities, their attributes, and expected behaviors and well as the limitations given by the problem domain. When done correctly solving the problem domain will be done programmatically as you break down the problem into smaller pieces of a puzzle. As a result of good communication between technical an non- technical teams the domain model serves as a tool so that all stake holders are able to understand the specifics of the running program.  
 
 ___
 ##  Tables  
