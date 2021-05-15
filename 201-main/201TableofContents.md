@@ -9,7 +9,7 @@
 - [Reading 4](reading-04.md)
 - [Reading 5](reading-05.md)
 - [Reading 6](reading-06.md)
-- [Daily Reading 7]
+- [Reading 7](reading-07.md)
 - [Daily Reading 8]
 - [Daily Reading 9]
 - [Daily Reading 10]
