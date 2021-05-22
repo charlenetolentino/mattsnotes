@@ -20,3 +20,30 @@ ___
 
 
 There are several CSS properties that are specifically used to work HTML elements such as list tables and form. You can control the type of bullet point used for an unordered or ordered list as well as show or take away stylings for empty cells in a table. For forms field sets are used to determine the edges of a form helping them group together related information within. Forms specifically benefit more from styles that are more interactive and are easier to use if the controls for the form are vertically aligned. Depending on the web browser forms will look slightly different.
+___
+
+## JS Events
+
+Script can response when connected to an event registered by the browser. Such events include introduction events by clicking to hovering over a link, event trigger code to call a function, or code responding to users by updating the DOM. 
+
+There are 3 steps to event handling:
+
+<ol> 
+  <li>Select the element node you want the script to respond to</li>
+  <li>Indicate which event will trigger the response. This step is also call binding. Note there are many diffrent event types.</li>
+  <li>State the code you want to run when the event occurs.</li>
+</ol>
+
+
+There are 3 ways to bind and element to an event. The first way is a date practice but should me known in the case of legacy code and it is called HTML handler. The other two are more common in the industry today and they are call traditional event handlers and event listeners where the ladder is more common. After an element is bound it can trigger a function which can interact with the webpage based on user input.  
+
+Here is an exapmle for the Duckket book on how a DOM event handler will look in JavaScript
+
+    function checkUsername() {
+
+    }
+
+    var userName = documant.getElementById('username');
+    userName.onfocus = checkUsername;
+
+The event in this case is onfocus. Notice that at the end of declaring the function the parentheses are missing. This is due to us not wanting to run this function until the event is triggered. 
