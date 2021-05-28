@@ -13,7 +13,7 @@
 - [Reading 8](reading-08.md)
 - [Reading 9](reading-09.md)
 - [Reading 10](reading-10.md)
-- [Daily Reading 11]
+- [Reading 11](reading-11.md)
 - [Daily Reading 12]
 - [Daily Reading 13]
 - [Daily Reading 14]
