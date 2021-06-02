@@ -33,16 +33,18 @@ ___
 ### Drawing with \<canvas>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Canvas only supports 2 shapes: a rectangle and a list of points connected by lines</li>
+  <li>All other shapes are created by combining paths</li>
+  <li>moveTo() is a function that is very useful that is described as lifting the pen form one spot to another</li>
+  <li>Use the lineTo() method to draw straight lines</li>
+  <li>lineTo() takes in 2 arguments, x and y which is the destination you want the pen to draw to</li>
+  <li>To draw arcs or circles use the arc() or arcTo() method</li>
+  <li>Bezier and quadratic curves – bezierCurve() andquadraticCurveTo()</li>
 </ul>
 
+NOTE there are more methods to darw shape using canvas but for the intrest of time I will leave a link for the article here:
+[Drawing Shapes in Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+ 
 
 
 
