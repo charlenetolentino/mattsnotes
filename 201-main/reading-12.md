@@ -45,7 +45,7 @@ ___
 NOTE there are more methods to darw shape using canvas but for the intrest of time I will leave a link for the article here:
 [Drawing Shapes in Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
  
-
+### Applying Styles and Colors
 
 
 
