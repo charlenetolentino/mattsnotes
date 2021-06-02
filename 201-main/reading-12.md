@@ -56,16 +56,17 @@ NOTE there are more methods to darw shape using canvas but for the intrest of ti
   <li>Shadows include 4 properties such as shadowOffsetX, shadowOffsetY, shadowBlur, and shadowColor</li>
 </ul>
 
+[Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+
 
 ### Drawing Text
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>There are 2 methods to render text, fillText() and strokeText()</li>
+  <li>Styling text will use one of all of theses follow properties, font, textAlign, textBaseline, and direction</li>
+  <li>measureText() is used to return a text metrics object containing the width, pixels, and specified test will be drawn in the current text style</li>
 </ul>
+
+
+
+[Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
