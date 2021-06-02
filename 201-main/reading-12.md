@@ -19,6 +19,51 @@ Reference this link to learn the diffrence : [Reading 12 Chart Article](https://
 
 ___
 
+## The \<canvas> Element
+
+### Basics
+<ul>
+  <li>Supplying an ID to a canvas element is a good practice</li>
+  <li>Canvas can be styled like a normal image with a margin, border, etc.</li>
+  <li>You can provide a tittle to a canvas tag</li>
+  <li>Not all web browsers support canvas</li>
+  <li>You will need backup like a static image for when a browser does not support</li>
+</ul>
+
+### Drawing with \<canvas>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 
 
+
+
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  
+</ul><ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
