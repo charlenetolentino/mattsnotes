@@ -48,18 +48,18 @@ NOTE there are more methods to darw shape using canvas but for the intrest of ti
 ### Applying Styles and Colors
 
 
+<ul>
+  <li>fillStyle will set the style used when filling spaces </li>
+  <li>strokeStyle will set the style for shapes outlines</li>
+  <li>Both will equal a value of color name, RGB, RGBA, and hex code</li>
+  <li>Line styles have several properties such as linewidth, lineCap, lineJoin, and others</li>
+  <li>Shadows include 4 properties such as shadowOffsetX, shadowOffsetY, shadowBlur, and shadowColor</li>
+</ul>
+
+
+### Drawing Text
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  
-</ul><ul>
   <li></li>
   <li></li>
   <li></li>
