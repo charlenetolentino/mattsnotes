@@ -14,7 +14,7 @@
 - [Reading 9](reading-09.md)
 - [Reading 10](reading-10.md)
 - [Reading 11](reading-11.md)
-- [Daily Reading 12]
+- [Reading 12](reading-12.md)
 - [Daily Reading 13]
 - [Daily Reading 14]
 - [Daily Reading 15]
