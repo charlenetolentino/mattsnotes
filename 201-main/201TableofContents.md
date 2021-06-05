@@ -16,5 +16,5 @@
 - [Reading 11](reading-11.md)
 - [Reading 12](reading-12.md)
 - [Reading 13](reading-13.md)
-- [Daily Reading 14]
-- [Daily Reading 15]
+- [Reading 14a](reading-14a.md)
+- [Reading 14b](reading-14b.md)
