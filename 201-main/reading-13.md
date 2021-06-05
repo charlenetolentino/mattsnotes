@@ -17,3 +17,5 @@
   <li>5 megabytes is the local storage capacity</li>
   <li>HTML5 storage can save progress locally within the browser for when you close the browser mid-activity and just reopen when you are ready to resume </li>
 </ul>
+
+Article: http://diveinto.html5doctor.com/storage.html
