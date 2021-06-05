@@ -13,12 +13,7 @@
   <li>This feature allows web pages to store name/value pairs locally in the client browser</li>
   <li>The named key is a string and the data can be any type supported by JavaScript </li>
   <li>Remember to us parseInt() when comparing different data types</li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>The storage event is not cancelable</li>
+  <li>5 megabytes is the local storage capacity</li>
+  <li>HTML5 storage can save progress locally within the browser for when you close the browser mid-activity and just reopen when you are ready to resume </li>
 </ul>
