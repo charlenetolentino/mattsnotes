@@ -19,3 +19,88 @@
   <li>translate will push an element away on the z axis making it smaller</li>
   <li>3D skew is only possible on the X and Y axis and not the Z</li>
 </ul>
+
+## CSS Transitions and Animations
+
+<ul>
+  <li>Transitions can alter the appearance and behavior of an element whenever a state change occurs</li>
+  <li>Hovered over, focused on, active, or targeted are some of these state changes</li>
+  <li>There are 4 transition properties: transition-property, transition-duration, transition-timing-function, and transition-delay </li>
+  <li>There is transition shorthand</li>
+  <li>Animations gives a transition more control</li>
+  <li>The @keyframes rule is used to run an animation</li>
+  <li>You will need to declare an animation-duration property so the browser knows how long an animation should take</li>
+  <li>Shorthand Animations also exist </li>
+  
+</ul>
+
+
+<ul>
+  <li></li>
+  <li></li>
+  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
+
+<ul>
+  <li></li>
+  <li></li>
+  <li> </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
