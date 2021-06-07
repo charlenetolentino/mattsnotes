@@ -22,6 +22,8 @@
 
 ## CSS Transitions and Animations
 
+[Article](https://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+
 <ul>
   <li>Transitions can alter the appearance and behavior of an element whenever a state change occurs</li>
   <li>Hovered over, focused on, active, or targeted are some of these state changes</li>
@@ -34,20 +36,43 @@
   
 </ul>
 
+## 8 Simple CSS3 Transitions That Will WOW Your Users
 
-<ul>
-  <li></li>
-  <li></li>
-  <li> </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+A few lines of code can really help your site pop, raise site interactions, and create buzz for your page. Here are a few effects  that are controlled with the transition property
+
+
+Fade in:
+
+    .fade
+    {
+      opacity:0.5;
+    }
+      .fade:hover
+    {
+      opacity:1;
+    }
+
+Change color:
+
+    .color:hover
+    {
+      background:#53a7ea;
+    }
+
+
+Grow and Shrink:
+
+    .grow:hover
+    {
+     -webkit-transform: scale(1.3);
+      -ms-transform: scale(1.3);
+      transform: scale(1.3);
+    }
+
+There are plenty more in the article! 
+
+
+
 
 <ul>
   <li></li>
