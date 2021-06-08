@@ -78,8 +78,13 @@ There are plenty more in the article!
 [Article](https://codepen.io/retyui/pen/ByoaXV)
 
 
-Here is an example on codepen of what it would look like to style buttons with animations and transformations. There are 3 buttons floating up and down of varying colors with hover styling and styling after they have been clicked so that the user knows what they are pressing and when. 
+Here is an example on codepen of what it would look like to style buttons with transformations. There are 3 buttons floating up and down of varying colors with hover styling and styling after they have been clicked so that the user knows what they are pressing and when. 
 
+## Keyframes Animations
+
+[Article](https://codepen.io/akshaychauhan/pen/oAfae)
+
+This is a codepen of an animation of a ball bouncing across a box where the bounce gets progressively smaller. The bouncing is represented in percentages and across the square. It repeats this animation 15 times until the page is reloaded.
 
 
 <ul>
