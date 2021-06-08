@@ -38,6 +38,8 @@
 
 ## 8 Simple CSS3 Transitions That Will WOW Your Users
 
+[Article](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users) 
+
 A few lines of code can really help your site pop, raise site interactions, and create buzz for your page. Here are a few effects  that are controlled with the transition property
 
 
@@ -71,6 +73,12 @@ Grow and Shrink:
 
 There are plenty more in the article! 
 
+## 6 Button Animated CodePen
+
+[Article](https://codepen.io/retyui/pen/ByoaXV)
+
+
+Here is an example on codepen of what it would look like to style buttons with animations and transformations. There are 3 buttons floating up and down of varying colors with hover styling and styling after they have been clicked so that the user knows what they are pressing and when. 
 
 
 
