@@ -10,7 +10,6 @@
   <li>CSS3 brought new ways to position and alter element by using the transform property </li>
   <li>Transform comes in 2 different settings, 2 dimensional and 3 dimensional</li>
   <li>The rotate value is noted in 0 to 360 degrees </li>
-  <li>The rotate value is noted in 0 to 360 degrees </li>
   <li>The scale value allows you to change the size of an element using the value between .01 and .99</li>
   <li>The translate value works like relative positioning using the value of pixels</li>
   <li> Skew is used to distort elements on each axis individually or both using the value of degrees</li>
@@ -96,4 +95,4 @@ This is a codepen that is using an animation of 404 rotating around itself and c
 
 [CodePen](https://codepen.io/dp_lewis/pen/gCfBv)
 
-Now this is a codepen where a ball seemingly comes from outside the of the webpage bounces a few times and then leaves the screen from the bottom of the screen. 
+Now this is a codepen where a ball seemingly comes from outside the of the webpage bounces a few times and then leaves the screen from the bottom of the screen.
