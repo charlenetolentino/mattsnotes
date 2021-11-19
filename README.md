@@ -13,5 +13,5 @@ My name is Matt Miguel and I came to Codefellows to peruse a career in software 
 
 - [102 Reading Notes](/102-main/102TableofContents.md)
 - [201 Reading Notes](/201-main/201TableofContents.md)
-- 301 (Coming Soon)
+- [301 Reading Notes](301-main/301TableofContents.md)
 - 401 (Coming Soon)   
