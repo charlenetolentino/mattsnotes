@@ -3,7 +3,7 @@
  **Here you will find my daily notes for code 102**
 
 - [Home](/README.md)
-- [The Growth Mindset](/102-main/Day1.md)
+- [The Growth Mindset](Day1.md)
 - [What is a Text Editor](/102-main/Day2.md)
 - [What is Git](/102-main/Day3.md)
 - [What is HTML](/102-main/Day4.md)
