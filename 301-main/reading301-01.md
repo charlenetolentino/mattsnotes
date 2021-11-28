@@ -30,10 +30,29 @@ Questions:
         <li>	System Maintenance and Evolution – Easy to change and update</li>
         <li>	Independent – Works well on its own but also can add to another to improve </li>
       </ol>
-
+____
 ## [What is Props and how it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child) 
 
 Questions: 
   1. What is "props" short for?
+      <ul>
+      <li> Props is short for properties and is a special keyword in React</li>
+      </ul>
   1. How are props used in React?
+     <ul>
+      <li> Props are passed thorugh a component similar to function arguments</li>
+      </ul>
   1. What is the flow of props?
+      <ul>
+      <li> The flow of props in one way from parent to child</li>
+      </ul>
+
+
+
+___
+## Things I want to know more about
+ 1. I want to learn more on how to write props
+ 1. I want to see more capabilites that props have/What are it's limits?
+ 1. Is there shorthand for writing componets or props?
+
+ 
