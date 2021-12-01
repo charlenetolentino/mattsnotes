@@ -28,16 +28,21 @@ Reading : [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the
 
 Questions: 
 
+<ol> 
   1. What is the spread operator?
 
-      <ul>
-      <li> .map() returns the double values of the numbers that are input via an array</li>
-      </ul>
-  1. List 4 things that the spread operator can do.
+      
+  The spread operator is a "spread syntax" notated by three dots (...) to expand an object into their own list of arguments
 
-      <ul>
-       <li>Loops are made using curly braces for React but must also have a returned list element</li>
-      </ul>
+
+  2. List 4 things that the spread operator can do.
+
+      <ol>
+       <li>Adding State to React</li>
+       <li>Using and array as arguments</li>
+       <li>Combining objects</li>
+       <li>Using Math functions</li>
+      </ol>
   1. Give an example of using the spread operator to combine two arrays.
 
       <ul>
@@ -45,13 +50,21 @@ Questions:
       </ul>
   1. Give an example of using the spread operator to add a new item to an array.
 
-      <ul>
-       <li>A Key is a special attribute that needs to be included when creating lists. They help React identify which items have changed</li>
-      </ul>
-  1. Give an example of using the spread operator to combine two objects into one.
+    const color = ['red','blue','white']
+    const moreColor = [...color];
+    console.log(moreColor) // Array(3) [ "red", "blue", "white",]
+    color[0] = 'pink'
+    console.log(...[...color,'...',...color]) //  pink blue white ... red blue white
 
+  5. Give an example of using the spread operator to combine two objects into one.
 
-      <ul>
-       <li>A Key is a special attribute that needs to be included when creating lists. They help React identify which items have changed</li>
-      </ul>
+    const array1 = ['red','blue','white']
+    const array2 = ['pink', 'green', 'purple']
+    const array3 = [...array1,...array2]
+    console.log(...array3) // red blue white pink green purple
 
+</ol>
+
+___
+
+Video: 
