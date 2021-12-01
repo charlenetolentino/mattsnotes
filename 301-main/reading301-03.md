@@ -67,4 +67,27 @@ Questions:
 
 ___
 
-Video: 
+Video: [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+
+Questions: 
+
+  1. In the video, what is the first step that the developer does to pass functions between components?
+
+      <ul>
+      <li> You first need to create a function on the same level that the state exists </li>
+      </ul>
+  1. In your own words, what does the increment function do?
+
+      <ul>
+       <li>The function increase the value of an object that is clicked. The ibjec that is updated is determined by the name that is passed though the funtion.</li>
+      </ul>
+  1. How can you pass a method from a parent component into a child component?
+
+      <ul>
+        <li>Similar to how a prop, a method can be passed to a child. The child can use it as if it were any other method </li>
+      </ul>
+  1. How does the child component invoke a method that was passed to it from a parent component?
+  //WIP will turn in what I have and work on it more when I have a chance. My brian right now is a little fried
+      <ul>
+       <li></li>
+      </ul>
