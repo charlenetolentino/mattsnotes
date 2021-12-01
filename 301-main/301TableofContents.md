@@ -5,3 +5,4 @@
 - [Home](/README.md)
 - [Introduction to React and Compnents](reading301-01.md)
 - [State and Props](reading301-02.md)
+- [Passing Functions as Props](reading301-03.md)
