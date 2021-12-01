@@ -2,7 +2,7 @@
 
 [Home](/README.md) | [Back](/301-main/301TableofContents.md)
 
-Reading : [React Docs](https://reactjs.org/docs/lists-and-keys.html)
+## Reading : [React Docs](https://reactjs.org/docs/lists-and-keys.html)
 
 Questions: 
 
@@ -24,7 +24,7 @@ Questions:
       </ul>
 ___
 
-Reading : [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+## Reading : [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
 Questions: 
 
@@ -67,7 +67,7 @@ Questions:
 
 ___
 
-Video: [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+## Video: [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 Questions: 
 
@@ -91,3 +91,9 @@ Questions:
       <ul>
        <li>You invoke it the same way you would any other method</li>
       </ul>
+
+___
+## Things I want to learn more about
+
+ 1. I want to continue to learn more on how forEach and map
+ 1. More examples on how to pass functions between components
