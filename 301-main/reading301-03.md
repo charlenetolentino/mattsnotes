@@ -87,7 +87,7 @@ Questions:
         <li>Similar to how a prop, a method can be passed to a child. The child can use it as if it were any other method </li>
       </ul>
   1. How does the child component invoke a method that was passed to it from a parent component?
-  //WIP will turn in what I have and work on it more when I have a chance. My brian right now is a little fried
+  
       <ul>
-       <li></li>
+       <li>You invoke it the same way you would any other method</li>
       </ul>
