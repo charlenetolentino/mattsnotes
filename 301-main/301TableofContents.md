@@ -3,6 +3,7 @@
  **Here you will find my daily notes for code 301**
 
 - [Home](/README.md)
-- [Introduction to React and Compnents](reading301-01.md)
+- [Introduction to React and Components](reading301-01.md)
 - [State and Props](reading301-02.md)
 - [Passing Functions as Props](reading301-03.md)
+- [React and Forms](reading301-04.md)
