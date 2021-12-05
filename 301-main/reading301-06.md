@@ -11,51 +11,51 @@ Questions:
 1. What is node.js?
 
     <ul>
-      <li></li>
+      <li>Node.js is a program we can use to execute JavaScript on our computers.</li>
     </ul>
       
 1. In your own words, what is Chrome’s V8 JavaScript Engine?
 
 
     <ul>
-      <li>  </li>
+      <li> the V8 JavaScript engine is a tool created to run JavaScript directly on your local machine.</li>
     </ul>
 1. What does it mean that node is a JavaScript runtime?
 
     <ul>
-      <li></li>
+      <li> It means we can execute Javascript on out machines in real time</li>
     </ul
       
 1. What is npm?
 
 
     <ul>
-      <li>  </li>
+      <li> npm is a package manager and is also a software registry</li>
     </ul>
 
 1. What version of node are you running on your machine?
 
     <ul>
-      <li></li>
+      <li> v12.20.0 </li>
     </ul>
       
 1. What version of npm are you running on your machine?
 
 
     <ul>
-      <li>  </li>
+      <li>8.1.4</li>
     </ul>
 1. What command would you type to install a library/package called ‘jshint’?
 
     <ul>
-      <li></li>
+      <li>npm install -g jshint</li>
     </ul>
       
 1. What is node used for?
 
 
     <ul>
-      <li>  </li>
+      <li> node is used got installing and running build tools. These are designed to help expedite the process of building a modern JavaScript app </li>
     </ul>
 ___
 
