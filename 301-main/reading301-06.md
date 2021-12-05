@@ -66,22 +66,27 @@ Questions:
 1. What are the 6 reasons for pair programming?
 
 
-    <ul>
-      <li>  </li>
-    </ul>
+    <ol>
+      <li> Produce greater efficiency </li>
+      <li> Promotes more engaged collaboration  </li>
+      <li> Chance to learn from other students, cementing concepts.  </li>
+      <li> Build Social Skills </li>
+      <li> Job interview readiness  </li>
+      <li> Work environment readiness  </li>
+    </ol>
 1. In your experience, which of these reasons have you found most beneficial?
 
-
-
     <ul>
-      <li>  </li>
+      <li> I found that pair programming very useful in my learning experience here at Code Fellows. A lot of my strides came from pair programming because I was with a partner that filled in all of my blanks in knowledge and I filled theirs. I can attest that having a second set of eyes on the same code made our development process more efficient and generally much cleaner code. </li>
     </ul>
 1. How does pair programming work?
 
 
     <ul>
-      <li>  </li>
+      <li>Two people pair up where one shares the screen and types out what the other person is saying to type. These roles are call driver and navigator. The navigator will guide the driver on big picture items assisting with scanning the code for any bugs. The driver is the one writing code or the mechanics of the app/website that is being worked on together. At a certain point they will switch roles so they can better flex their skills.   </li>
     </ul>
 ___
 
 ## Things I want to know more about
+
+1. I would like to see more in class examples of node.js
