@@ -11,3 +11,4 @@
 - [Node.JS](reading301-06.md)
 - [REST](reading301-07.md)
 - [API's](reading301-08.md)
+- [Functional Programming and Node JS Tutorial](reading301-09.md)
