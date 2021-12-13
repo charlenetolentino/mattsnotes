@@ -79,42 +79,42 @@ Questions:
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>A type of database that is stored as a table structure, with name, id, name as identifier. </li>
     </ul>
 
 1. What type of structure does a relational database work with?
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>A table </li>
     </ul>
 
 1. What is a ‘schema’?
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>Rules that the data has to follow </li>
     </ul>
 
 1. What is a NoSQL database?
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>Like an example? Mongo.db is a NoSQL database </li>
     </ul>
 
 1. Howo does it work?
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>a NoSQL does not need documentation for it to follow its schema </li>
     </ul>
 
 1. What is inside of a Mongo database?
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>many collections and documents</li>
     </ul>
 
 1. Which is more flexible - SQL or MongoDB? and why.
@@ -122,12 +122,12 @@ Questions:
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>Mongo cause it can be scaled up and sideways </li>
     </ul>
 
 1. What is the disadvantage of a NoSQL database?
 
 
     <ul>
-      <li>A call is a single function invocation. </li>
+      <li>the same data </li>
     </ul>
