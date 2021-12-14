@@ -14,3 +14,4 @@
 - [Functional Programming and Node JS Tutorial](reading301-09.md)
 - [In Memory Storage](reading301-10.md)
 - [Mongo.db and SQL](reading301-11.md)
+- [CRUD](reading301-12.md)
