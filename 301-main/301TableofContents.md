@@ -15,3 +15,4 @@
 - [In Memory Storage](reading301-10.md)
 - [Mongo.db and SQL](reading301-11.md)
 - [CRUD](reading301-12.md)
+- [Diversity & Inclusion in the Tech Industry](reading301-13.md)
