@@ -48,6 +48,9 @@
 ### [What the Heck is an Eventloop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 - Notes:
+ - The events loops job is to look at the stack and look at the task queue. If the stack is empty it takes the first thing on the queue and pushes it onto the stack. 
+ - The callback queue is a holding place for code that has finished execution and needs to rejoin the main queue
+ - You should not clack the call stack for the site to render properly 
 
 ### [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
