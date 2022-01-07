@@ -31,6 +31,17 @@
 ### [The 5 Why's](https://www.mindtools.com/pages/article/newTMC_5W.htm)
 
   - Notes:
+    - This technique was developed by Sakichi Toyoda the inventor and founder of Toyota Industries
+    - The 5Y uses counter-measures rather than solutions
+    - A counter-measure is an action or set of actions that seeks to prevent the problem from arising
+    - Here are the steps to using the 5Y's:
+      1. Assemble a team
+      1. Define the Problem
+      1. Ask why the problem is happening
+      1. Ask why 4 more times for the previous answer to the last why
+      1. Know when to stop
+      1. Address the root problem from asking why
+      1. Monitor the fix
 
 ## Videos:
 
