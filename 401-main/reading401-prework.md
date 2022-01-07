@@ -7,6 +7,16 @@
 ### [Solving Problems](https://simpleprogrammer.com/solving-problems-breaking-it-down/)
 
   - Notes:
+    - Resist the urge to start writing code as soon as possible
+    - Take plenty of time to try to understand the problem
+    - Here are some steps to follow outlined by the reading:
+      1. Read the problem completely twice
+      1. Solve the problem manually with 3 sets of sample data
+      1. Optimize the manual steps
+      1. Write the manual steps as comments or pseudo-code
+      1. Replace the comments or pseudo-code with real code
+      1. Optimize the real code
+
 
 ### [How to Think like a Programmer](https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/)
 
