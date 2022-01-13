@@ -7,3 +7,4 @@
 - [Node Ecosystem, TDD, CI/CD](reading401-01.md)
 - [Express](reading401-02.md)
 - [Express REST API](reading401-03.md)
+- [Data Modeling](reading401-04.md)

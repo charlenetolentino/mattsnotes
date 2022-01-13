@@ -30,3 +30,17 @@ Routing Middleware
 Test Driven Development: TDD the practice of writeing test first before actual code. 
 
 Behavioral Testing: testing how the app reacts to the user
+
+## Preview
+
+1. Which 3 things had you heard about previously and now have better clarity on?
+- CRUD, modularizing, thunder client
+
+
+1. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+- howto test update, how to update using put, more testing
+
+
+1. What are you most excited about trying to implement or see how it works?
+- more testing fretures 
+
