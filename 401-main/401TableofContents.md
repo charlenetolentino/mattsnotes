@@ -6,3 +6,4 @@
 - [Prework](reading401-prework.md)
 - [Node Ecosystem, TDD, CI/CD](reading401-01.md)
 - [Express](reading401-02.md)
+- [Express REST API](reading401-03.md)
