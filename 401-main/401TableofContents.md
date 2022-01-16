@@ -8,3 +8,4 @@
 - [Express](reading401-02.md)
 - [Express REST API](reading401-03.md)
 - [Data Modeling](reading401-04.md)
+- [Authentication](reading401-06.md)
