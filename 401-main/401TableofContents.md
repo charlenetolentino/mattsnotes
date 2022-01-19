@@ -10,3 +10,4 @@
 - [Data Modeling](reading401-04.md)
 - [Authentication](reading401-06.md)
 - [Bearer Authorization](reading401-07.md)
+- [Bearer Authorization](reading401-08.md)
