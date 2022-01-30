@@ -27,4 +27,3 @@ Preview:
   - emit and on relationship, mainly the lab
 - Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
   - more DSA
-
