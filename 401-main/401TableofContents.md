@@ -17,4 +17,4 @@
 - [Message Queues](reading401-13.md)
 - [Event Driven Architecture](reading401-14.md)
 - [AWS: S3 and Lambda](reading401-17.md)
-
+- [AWS: API, Dynamo and Lambda](reading401-18.md)
