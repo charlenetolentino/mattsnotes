@@ -13,7 +13,7 @@
 - [Access Control (ACL)](reading401-08.md)
 - [Authorization/Authentication](reading401-09.md)
 - [Event Driven Applications](reading401-11.md)
-- [Event Driven Applications](reading401-12.md)
+- [Socket.io](reading401-12.md)
 - [Message Queues](reading401-13.md)
 - [Event Driven Architecture](reading401-14.md)
 - [AWS: S3 and Lambda](reading401-17.md)
