@@ -1,4 +1,4 @@
-# AWS: Events
+# Component Based UI
 
 [Home](/README.md) | [Back](/401-main/401TableofContents.md)
 
