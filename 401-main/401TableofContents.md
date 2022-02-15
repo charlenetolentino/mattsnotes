@@ -20,3 +20,4 @@
 - [AWS: API, Dynamo and Lambda](reading401-18.md)
 - [AWS: Events](reading401-19.md)
 - [Component Based UI](reading401-26.md)
+- [Component Lifecycle / useEffect() Hook](reading401-27.md)
