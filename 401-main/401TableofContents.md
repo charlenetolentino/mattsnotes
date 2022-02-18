@@ -23,3 +23,4 @@
 - [useState() Hook](reading401-27.md)
 - [Component Lifecycle / useEffect() Hook](reading401-28.md)
 - [Advanced State with Reducers](reading401-29.md)
+- [Hash Tables](reading401-30.md)
