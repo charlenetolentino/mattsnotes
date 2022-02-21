@@ -25,3 +25,4 @@
 - [Advanced State with Reducers](reading401-29.md)
 - [Hash Tables](reading401-30.md)
 - [Context API](reading401-31.md)
+- [Context API - Behaviors](reading401-32.md)
