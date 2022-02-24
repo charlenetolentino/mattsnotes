@@ -27,3 +27,5 @@
 - [Context API](reading401-31.md)
 - [Context API - Behaviors](reading401-32.md)
 - [\<Login /> and \<Auth />](reading401-33.md)
+- [API integration](reading401-34.md)
+- [Graphs](reading401-35.md)
