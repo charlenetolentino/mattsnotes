@@ -29,3 +29,4 @@
 - [\<Login /> and \<Auth />](reading401-33.md)
 - [API integration](reading401-34.md)
 - [Graphs](reading401-35.md)
+- [Application State with Redux](reading401-36.md)
