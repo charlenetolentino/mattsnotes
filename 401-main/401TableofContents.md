@@ -30,3 +30,5 @@
 - [API integration](reading401-34.md)
 - [Graphs](reading401-35.md)
 - [Application State with Redux](reading401-36.md)
+- [Redux - Combined Reducers](reading401-37.md)
+- [Redux - Asynchronous Actions](reading401-38.md)
