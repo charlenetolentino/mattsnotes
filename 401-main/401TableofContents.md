@@ -32,3 +32,4 @@
 - [Application State with Redux](reading401-36.md)
 - [Redux - Combined Reducers](reading401-37.md)
 - [Redux - Asynchronous Actions](reading401-38.md)
+- [Redux - Additional Topics](reading401-39.md)
