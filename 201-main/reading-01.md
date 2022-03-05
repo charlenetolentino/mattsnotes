@@ -5,9 +5,9 @@
 
 ## Structure
 
-One way to think about how to structure a web page is to think of it like a newspaper (remember those?). On a newspaper there are titles, headings, and bodies of paragraphs but instead of typing up a word document and editing the font size and shape you will need to identify these different sections with HTML tags. These tags usually come in pairs showing you where that section begins and ends.  
+One  way to think about how to structure a web page is to think of it like a newspaper (remember those?). On a newspaper there are titles, headings, and bodies of paragraphs but instead of typing up a word document and editing the font size and shape you will need to identify these different sections with HTML tags. These tags usually come in pairs showing you where that section begins and ends.  
 
-For expample:
+For example:
 
     <h1> This is the main heading </h1>
     <p> This is where a paragraph will go </p>
@@ -23,7 +23,7 @@ It is vital to learn all the HTML tags to know which are appropriate to use at c
 
 Used to ***uniquely*** identify that element form the others on the page
 
-**Class Attrubute:**
+**Class Attribute:**
 
     <p class="insert text">
 
@@ -79,7 +79,7 @@ Every website has a target audience. They can be as broad as a Facebook audience
 
 Most visitors will come to your site for a specific reason. You can determine these reasons by asking what their key motivations are and what are their specific goals.
 
-**What inforamtion your visitor needs?**
+**What information your visitor needs?**
 
 After learning who is coming to your site and why, you need to find out what information they need to reach their goals quickly. Are these subject matter experts with tons of experience and knowledge or are they novices who need background information on a product or services that you are providing? 
 
