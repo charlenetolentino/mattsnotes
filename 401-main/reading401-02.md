@@ -36,7 +36,7 @@
 
   <ul>
       <li>SOAP: 'allows developers to invoke processes running on disparate operating systems  to authenticate, authorize, and communicate using Extensible Markup Language '</li>
-      <li>REST: 'The goal of REST is to increase performance, scalability, simplicity, modifiability, visibility, portability, and reliability. This is achieved through following REST principles such as a client–server architecture, statelessness, cacheability, use of a layered system, support for code on demand, and using a uniform interface. These principles must be followed for the system to be classified.'</li>
+      <li>REST: 'The goal of REST is to increase performance, scalability, simplicity, modifiability, visibility, portability, and reliability. This is achieved through following REST principles such as a client–server architecture, statelessness, capability, use of a layered system, support for code on demand, and using a uniform interface. These principles must be followed for the system to be classified.'</li>
     </ul>
 
 ## Vocab:
@@ -44,7 +44,7 @@
 <ul>
       <li>Web Server - A computer that runs a website </li>
       <li>Express - A Node.js web application framework for web and mobile applications</li>
-      <li>Routing - the process of declaring a path for a method to retrieve, update or delete a resourse but calling a callback function</li>
+      <li>Routing - the process of declaring a path for a method to retrieve, update or delete a resource but calling a callback function</li>
       <li>WRRC - web request response cycle</li>
     </ul>
 

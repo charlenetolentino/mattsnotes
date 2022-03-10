@@ -23,7 +23,7 @@ encryption - hiding data using math
 token - a security token  used toe authenticate systems
 bearer - the one asking for access to token (or rings)
 secret - a private key 
-JSON Web Token - is a scrutred wat to move information between files as JSON objects 
+JSON Web Token - is a scrubbed wat to move information between files as JSON objects 
 
 Preview:
 

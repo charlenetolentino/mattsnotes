@@ -45,7 +45,7 @@ Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
 What are you most excited about trying to implement or see how it works?
 
-  - auth I guess
+ - auth I guess
 
 
 Readings for later:

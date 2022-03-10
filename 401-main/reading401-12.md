@@ -8,7 +8,7 @@ Questions:
   - to make it more safe and saleable.
 
 
-- UDP is often refereed to as a connectionless protocol. Why is this?
+- UDP is often refereed to as a connection less protocol. Why is this?
   -  doesn't establish connection but just sending
 
 - Can a socket server application have multiple socket connections?
@@ -24,13 +24,13 @@ Questions:
 Vocab:
 
 - Observer Pattern: 
-  - a design pattern when the object maintains a list of dependants, called by calling their method
+  - a design pattern when the object maintains a list of dependents, called by calling their method
 
 - Listener:
   - A procedure in JS
 
 - Event Handler:
-  - a block of codetaht runs when the events fires
+  - a block of code that runs when the events fires
 
 - Event Driven Programming:
   - a programming paradigm when the flow of the program is determined by events of the users actions
