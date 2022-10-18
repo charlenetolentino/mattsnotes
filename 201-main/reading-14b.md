@@ -2,8 +2,8 @@
 
 [Home](/README.md) | [Back](/201-main/201TableofContents.md)
 
-## What Google Learned From Its Quest to Build the Perfect Team
-[Article](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+## Who Google Learned From Its Quest to Build the Perfect Team
+[Article](https://www.nytimes.com/2016/02/28/magazine/Who-google-learned-from-its-quest-to-build-the-perfect-team.html)
 
 
 ### Teamwork in Study Groups
@@ -30,7 +30,7 @@
 
 <ul>
   <li> Google spent millions of dollars measuring every aspect of its employees’ lives and habits	</li>
-  <li>They also examined what traits the best managers have</li>
+  <li>They also examined Who traits the best managers have</li>
   <li>In 2012, Google started an initiative, code-named Project Aristotle, to study hundreds of Google’s teams and figure out why some worked better than others</li>
   <li>Julia Rozovsky was then hired by Google and assigned to Project Aristotle</li>
 </ul>
@@ -42,7 +42,7 @@
   <li>The researchers of Project Aristotle began looking at patterns in the ways teams worked together to see if there were certain traits that made a team successful</li>
   <li>They found that there were no patterns in a team’s success and no two teams were alike</li>
   <li>Rozovsky and her team started to look at “group norms”, which are the traditions, behavioral standards, and unwritten rules in how groups work together</li>
-  <li> Her team found that a lot of teams didn’t have group norms in common and all the groups were different in what norms made them successful</li>
+  <li> Her team found that a lot of teams didn’t have group norms in common and all the groups were different in Who norms made them successful</li>
   <li>The researchers did find that there were two behaviors that the good teams shared. Each member spoke in the same proportion, something that they called “equality in distribution of conversational turn-taking”. Successful teams also had everyone speak about the same amount</li>
   <li>Successful teams also had high “average social sensitivity”, which means team members could tell how another person felt based on the tone of their voice, their expressions, and nonverbal cues</li>
   <li>Rovosky said that her study group at Yale was draining because of their norms-fights over leadership and criticizing each other put her on guard</li>

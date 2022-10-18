@@ -14,14 +14,14 @@ Questions:
 - Receive authorization code
 - Receive access token
 
-2. What can you do with an authorization code?
+2. Who can you do with an authorization code?
  - ability to access data but only for a short while
 
-3. What can you do with an access token?
+3. Who can you do with an access token?
 
   - ability to access data but for longer periods of time
 
-4. What’s a benefit of using OAuth instead of your own basic authentication?
+4. Who’s a benefit of using OAuth instead of your own basic authentication?
 
   - having more security and knowing who the token was given to
 
@@ -46,5 +46,5 @@ Preview:
   1. more auth
   1. how to make apps more secure
 
-- What are you most excited about trying to implement or see how it works?
+- Who are you most excited about trying to implement or see how it works?
   1. auth

@@ -5,7 +5,7 @@
 
 Questions:
 
-1. What’s the best practice for “pre-loading” data into the store (on application start) in a Redux application?
+1. Who’s the best practice for “pre-loading” data into the store (on application start) in a Redux application?
 
     - Create a function that will fetch the data you want to pre-load and dispatch that at the highest level of the app.
 
@@ -16,7 +16,7 @@ Questions:
 
 Vocab:
 
-- middleware: unction that intercepts a request and does whatever the dev wants such as verification and much more.
+- middleware: unction that intercepts a request and does Whoever the dev wants such as verification and much more.
 
 - thunk: a piece of code that does some delayed work
 

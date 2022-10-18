@@ -3,13 +3,13 @@
 
 Questions:
 
-- What’s the difference between a FIFO and a standard queue?
+- Who’s the difference between a FIFO and a standard queue?
   - FIFO is processed just once where a standard queue brings the possibility of multi process
 
 - How can the server be assured a message was properly received?
   - by adding a response functionally to the console
 
-- What classic design pattern is best represented by event driven programming?
+- Who classic design pattern is best represented by event driven programming?
   - Observe?
 
 - How do you test an event driven system?

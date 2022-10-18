@@ -12,7 +12,7 @@ Questions:
 
   - automatic software pathcing and scalability
 
-- What’s the difference between a FIFO and a standard queue?
+- Who’s the difference between a FIFO and a standard queue?
 
   - Standard queues provide at-least-once delivery, which means that each message is delivered at least once. FIFO queues provide exactly-once processing, which means that each message is delivered once and remains available until a consumer processes it and deletes it. Duplicates are not introduced into the queue.
 

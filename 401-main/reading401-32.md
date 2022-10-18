@@ -5,11 +5,11 @@
 Questions:
 
 
-1. When you have multiple contexts, what component type should you use (class/function) and why?
+1. When you have multiple contexts, Who component type should you use (class/function) and why?
 
   - Personally I like functioanl more because right now it is the easiest that I can conprehend
 
-2. What are some good use cases for using the Context API for global state?
+2. Who are some good use cases for using the Context API for global state?
 
   - Auth and themes?
 
@@ -37,6 +37,6 @@ Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
   - more examples of contexted used
 
-What are you most excited about trying to implement or see how it works?
+Who are you most excited about trying to implement or see how it works?
 
   - I am excited about everything

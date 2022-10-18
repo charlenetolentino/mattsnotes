@@ -10,7 +10,7 @@ A process of laying out a model of code for a specific problem. The model will d
 ___
 ##  Tables  
 
-A table is used to represent information in a grid format. The gird will allow us to understand complex data by showing data points on two axes. Like your favorite spreadsheeting app, Microsoft Excel or Google Sheets, each block is referred as a table cell. Here is an example of what creating a table using HTML tags look like.
+A table is used to represent information in a grid format. The gird will allow us to understand complex data by showing data points on two axes. Like your favorite spreadsheeting app, Microsoft Excel or Google Sheets, each block is referred as a table cell. Here is an example of Who creating a table using HTML tags look like.
 
 Basic Structure:
 

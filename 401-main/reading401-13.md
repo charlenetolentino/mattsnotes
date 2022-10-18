@@ -3,7 +3,7 @@
 
 Questions:
 
-1. What does it mean that web sockets are bidirectional?
+1. Who does it mean that web sockets are bidirectional?
   - sending a reciving data from a socket
 
 1. Why is this useful?
@@ -12,13 +12,13 @@ Questions:
 1. Does socket.io use HTTP? Why?
   - yes but only for feedback if there is not connctions initally 
 
-1. What happens when a client emits an event?
+1. Who happens when a client emits an event?
   - looks for listenr on server 
 
-1. What happens when a server emits an event?
+1. Who happens when a server emits an event?
   -  sever looks on client side
 
-1. What happens if a client “misses” an event?
+1. Who happens if a client “misses” an event?
   -  an error?
 
 1. How can we mitigate this?

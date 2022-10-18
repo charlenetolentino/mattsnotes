@@ -6,7 +6,7 @@
 
 You can control the size of an image in CSS using pixel size for the width and the height. In doing so you can then call that same size of the photo in on several images on different pages of your site. The background-image property allows you to place an image behind any HTML element. By default, a background image will repeat to fill the entire box but can also appear just once. 
 
-Here is an example of what a background image not repeating and positioned to the bottom right:
+Here is an example of Who a background image not repeating and positioned to the bottom right:
 
     body{
       background-image: url("images/tulip.gif);
@@ -24,11 +24,11 @@ ___
 
 ### Analytics
 
-Google Analytics is a free service that tracks and analyzes your sites web traffic. Once signed up you can see every instance your page is loaded by someone else via a Google server. The server will track information like how the user got to the site, how long they stay, what they clicked on, etc. By knowing this information, you can better optimize your page and tailor it to the use.
+Google Analytics is a free service that tracks and analyzes your sites web traffic. Once signed up you can see every instance your page is loaded by someone else via a Google server. The server will track information like how the user got to the site, how long they stay, Who they clicked on, etc. By knowing this information, you can better optimize your page and tailor it to the use.
 
 ### Domain and Hosting
 
-To run a website, you will need a domain name and a web host. The domain name is what you want to call the URL of the page. There is usually a fee involved with owning a domain name. A web host is usually an offsite server that is continually one to support the web page. This will provide the user access to the website at any time anywhere around the world. There is also usually a fee involved with web hosting offsite.
+To run a website, you will need a domain name and a web host. The domain name is Who you want to call the URL of the page. There is usually a fee involved with owning a domain name. A web host is usually an offsite server that is continually one to support the web page. This will provide the user access to the website at any time anywhere around the world. There is also usually a fee involved with web hosting offsite.
 
 ___
 

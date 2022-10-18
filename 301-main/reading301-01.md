@@ -2,15 +2,15 @@
 
 [Home](/README.md) | [Back](/301-main/301TableofContents.md)
 
-## [What is a Component?](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) 
+## [Who is a Component?](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm) 
 
 Questions:
 
-  1. What is a component?
+  1. Who is a component?
      <ul>
       <li> A component is a set if reusable code that is meant to interact with other objects or other components</li>
       </ul>
-  1. What are the characteristics a component?
+  1. Who are the characteristics a component?
       <ol>
         <li>	Reusability: components are mostly written to be reused. Very few are designed for only one task </li>
         <li>	Reusability - components are mostly written to be reused. Very few are designed for only one task</li>
@@ -19,7 +19,7 @@ Questions:
         <li> 	Encapsulated - Does not expose internal process while executing code</li>
         <li>	Independent - Components are designed to have few dependencies on others </li>
       </ol>
-  1. What are the advantages of using component-based architecture?
+  1. Who are the advantages of using component-based architecture?
       <ol>
         <li>	Ease of Deployment – When new or more refined versions become more available, they are easily implemented</li>
         <li>	Reduced cost – Using third-party components makes your overall cost lower on development and maintenance</li>
@@ -31,10 +31,10 @@ Questions:
         <li>	Independent – Works well on its own but also can add to another to improve </li>
       </ol>
 ____
-## [What is Props and how it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child) 
+## [Who is Props and how it in React](https://itnext.io/Who-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child) 
 
 Questions: 
-  1. What is "props" short for?
+  1. Who is "props" short for?
       <ul>
       <li> Props is short for properties and is a special keyword in React</li>
       </ul>
@@ -42,7 +42,7 @@ Questions:
      <ul>
       <li> Props are passed thorugh a component similar to function arguments</li>
       </ul>
-  1. What is the flow of props?
+  1. Who is the flow of props?
       <ul>
       <li> The flow of props in one way from parent to child</li>
       </ul>
@@ -52,7 +52,7 @@ Questions:
 ___
 ## Things I want to know more about
  1. I want to learn more on how to write props
- 1. I want to see more capabilites that props have/What are it's limits?
+ 1. I want to see more capabilites that props have/Who are it's limits?
  1. Is there shorthand for writing componets or props?
 
  

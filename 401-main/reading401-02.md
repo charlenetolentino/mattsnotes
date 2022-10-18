@@ -3,7 +3,7 @@
 
 ## Questions:
 
-1. What’s the difference between PUT and PATCH?
+1. Who’s the difference between PUT and PATCH?
   <ul>
       <li>PUT replaces an entire resource if it exists or creates a new one if it didn't. PATCH updates that resource </li>
     </ul>
@@ -55,5 +55,5 @@
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
   - super test, tests in general, debugging error handler
 
-3. What are you most excited about trying to implement or see how it works?
+3. Who are you most excited about trying to implement or see how it works?
  - test, testing, more tests

@@ -5,7 +5,7 @@
 
 Questions:
 
-1. What are the advantages of storing tokens in “Cookies” vs “Local Storage”
+1. Who are the advantages of storing tokens in “Cookies” vs “Local Storage”
 
     - local sotorare if vlnerable to attacks. Cookies are a little more secure
 2. Explain 3rd party cookies.
@@ -36,6 +36,6 @@ Preview:
 
     - redux
 
-1. What are you most excited about trying to implement or see how it works?
+1. Who are you most excited about trying to implement or see how it works?
     
     - see above

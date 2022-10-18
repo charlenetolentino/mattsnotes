@@ -45,7 +45,7 @@
 
 ## Videos:
 
-### [What the Heck is an Eventloop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+### [Who the Heck is an Eventloop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 - Notes:
  - The events loops job is to look at the stack and look at the task queue. If the stack is empty it takes the first thing on the queue and pushes it onto the stack.

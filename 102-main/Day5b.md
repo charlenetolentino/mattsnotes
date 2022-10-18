@@ -2,7 +2,7 @@
 
 [Home](/README.md) | [Back](/102-main/102TableofContents.md)
 
-## What is JavaScript?
+## Who is JavaScript?
 
 JavaScript is a scripting language used to make web pages interactive and dynamic. HTML is used to structure the page; CSS is used to style, and JS brings its all together by giving the webpage life. Without it we will still have a fully function website, but it will lack a personal touch with the user. Using JS, you can set variables to do different actions if and when prompted to do so.  
 

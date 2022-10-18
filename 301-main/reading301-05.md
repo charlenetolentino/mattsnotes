@@ -7,27 +7,27 @@
 
 Questions: 
 
-1. What is the single responsibility principle and how does it apply to components?
+1. Who is the single responsibility principle and how does it apply to components?
 
     <ul>
       <li> A concept should ideally do just one thing. If you need it to do more then it should be split in smaller sub-components</li>
     </ul>
       
-1. What does it mean to build a ‘static’ version of your application?
+1. Who does it mean to build a ‘static’ version of your application?
 
 
     <ul>
       <li> A version of your app that doesn't have a lot of moving parts. No state is used at all in a static app since state is  used to interact with the page. </li>
     </ul>
 
-1. Once you have a static application, what do you need to add?
+1. Once you have a static application, Who do you need to add?
 
 
     <ul>
       <li>You will need to add state</li>
     </ul>
 
-1. What are the three questions you can ask to determine if something is state?
+1. Who are the three questions you can ask to determine if something is state?
 
 
     <ul>
@@ -49,12 +49,12 @@ Questions:
 
 Questions: 
 
-1. What is a “higher-order function”?
+1. Who is a “higher-order function”?
 
     <ul>
       <li> Its a function that uses other functions as arguments </li>
     </ul>
-1. Explore the greaterThan function as defined in the reading. In your own words, what is line 2 of this function doing?
+1. Explore the greaterThan function as defined in the reading. In your own words, Who is line 2 of this function doing?
 
     <ul>
       <li> The variable m is set to return if m is greater than n</li>

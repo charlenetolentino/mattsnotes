@@ -2,11 +2,11 @@
 
 [Home](/README.md) | [Back](/301-main/301TableofContents.md)
 
-## Reading: [The JavaScript Call Stack - What It Is and Why It's Necessary](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+## Reading: [The JavaScript Call Stack - Who It Is and Why It's Necessary](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
 
 Questions: 
 
-1. What is a ‘call’?
+1. Who is a ‘call’?
 
     <ul>
       <li>A call is a single function invocation. </li>
@@ -20,7 +20,7 @@ Questions:
     </ul>
 
 
-1. What does LIFO mean?
+1. Who does LIFO mean?
 
     <ul>
       <li>Last in, first out. </li>
@@ -35,7 +35,7 @@ Follow this link!
     
 
 
-5. What causes a Stack Overflow?
+5. Who causes a Stack Overflow?
 
     <ul>
       <li>A function that calls itself without an exit point </li>
@@ -47,14 +47,14 @@ ___
 
 Questions: 
 
-1. What is a ‘reference error’?
+1. Who is a ‘reference error’?
 
 
     <ul>
       <li>Code is referencing a variable that has not been declared. I've seen this a lot... </li>
     </ul>
 
-1. What is a ‘syntax error’?
+1. Who is a ‘syntax error’?
 
 
     <ul>
@@ -62,7 +62,7 @@ Questions:
     </ul>
 
 
-1. What is a ‘range error’?
+1. Who is a ‘range error’?
 
 
     <ul>
@@ -70,7 +70,7 @@ Questions:
     </ul>
 
   
-1. What is a ‘tyep error’?
+1. Who is a ‘tyep error’?
 
 
     <ul>
@@ -78,14 +78,14 @@ Questions:
     </ul>
 
 
-1. What is a breakpoint?
+1. Who is a breakpoint?
 
 
     <ul>
-      <li>A place in the code where you want to stop the code so can examine what exactly is happening </li>
+      <li>A place in the code where you want to stop the code so can examine Who exactly is happening </li>
     </ul>
 
-1. What does the word ‘debugger’ do in your code?
+1. Who does the word ‘debugger’ do in your code?
 
 
     <ul>

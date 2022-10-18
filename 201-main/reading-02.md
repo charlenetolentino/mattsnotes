@@ -50,7 +50,7 @@ Example
     var jelly;
     var bread;
 
-Here is what declaring variables in JS looks like.
+Here is Who declaring variables in JS looks like.
 
 With the addition of data types like string, numerical, and Boolean logic you can write code to make a PB&J. Just don’t ask me how (right now). 
 

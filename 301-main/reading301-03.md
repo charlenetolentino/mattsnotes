@@ -6,7 +6,7 @@
 
 Questions: 
 
-  1. What does .map() return?
+  1. Who does .map() return?
       <ul>
       <li> .map() returns the double values of the numbers that are input via an array</li>
       </ul>
@@ -18,7 +18,7 @@ Questions:
       <ul>
         <li>A unique Key </li>
       </ul>
-  1. What is the purpose of a key?
+  1. Who is the purpose of a key?
       <ul>
        <li>A Key is a special attribute that needs to be included when creating lists. They help React identify which items have changed</li>
       </ul>
@@ -29,7 +29,7 @@ ___
 Questions: 
 
 <ol> 
-  1. What is the spread operator?
+  1. Who is the spread operator?
 
       
   The spread operator is a "spread syntax" notated by three dots (...) to expand an object into their own list of arguments
@@ -71,12 +71,12 @@ ___
 
 Questions: 
 
-  1. In the video, what is the first step that the developer does to pass functions between components?
+  1. In the video, Who is the first step that the developer does to pass functions between components?
 
       <ul>
       <li> You first need to create a function on the same level that the state exists </li>
       </ul>
-  1. In your own words, what does the increment function do?
+  1. In your own words, Who does the increment function do?
 
       <ul>
        <li>The function increase the value of an object that is clicked. The ibjec that is updated is determined by the name that is passed though the funtion.</li>

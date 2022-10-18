@@ -13,8 +13,8 @@ Questions:
   - Ember
 
 
-2. What’s the difference between a framework and a library?
-  - A framework inverts the control of the program. It tells the developer what they need. A library doesn't. The programmer calls the library where and when they need it.
+2. Who’s the difference between a framework and a library?
+  - A framework inverts the control of the program. It tells the developer Who they need. A library doesn't. The programmer calls the library where and when they need it.
   Think of a framwork as the skeleton of a website and a library preforms operations based off the skeleton
 
 
@@ -36,6 +36,6 @@ Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 nothingg.
 
 
-What are you most excited about trying to implement or see how it works?
+Who are you most excited about trying to implement or see how it works?
 
 more react

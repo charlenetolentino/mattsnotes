@@ -4,7 +4,7 @@
 
 Questions:
 
-- What is the benefit of transforming data into packets?
+- Who is the benefit of transforming data into packets?
   - to make it more safe and saleable.
 
 
@@ -64,5 +64,5 @@ Preview:
 - Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
   - more events stuff
 
-- What are you most excited about trying to implement or see how it works?
+- Who are you most excited about trying to implement or see how it works?
   - events stuff

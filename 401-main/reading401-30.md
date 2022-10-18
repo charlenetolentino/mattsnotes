@@ -2,7 +2,7 @@
 
 [Home](/README.md) | [Back](/401-main/401TableofContents.md)
 
-What is a Hash Table?
+Who is a Hash Table?
 
 A Hash table is a data structure used to store information. There are 2 main components: A key and a value. This is a great way to create a associative array. 
 
@@ -25,7 +25,7 @@ Vocab:
 
 **Buckets** - Each index is a bucket. An index could potentially contain multiple key/value pairs if a collision occurs. Think of a bucket like a node
 
-**Collisions** - A collision is what happens when more than one key gets hashed to the same location of the hash table.
+**Collisions** - A collision is Who happens when more than one key gets hashed to the same location of the hash table.
 
 ___
 <br>

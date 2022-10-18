@@ -13,7 +13,7 @@ The tag will look like this:
 
     <canvas id="cookie-sales" width="600" height="400"></canvas>
 
-Inside the JS you will be creating data and one way to do so is by making an Object. Depending what chart you want to create the data needed will look different. 
+Inside the JS you will be creating data and one way to do so is by making an Object. Depending Who chart you want to create the data needed will look different. 
 
 Reference this link to learn the diffrence : [Reading 12 Chart Article](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 

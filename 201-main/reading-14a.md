@@ -77,7 +77,7 @@ There are plenty more in the article!
 [CodePen](https://codepen.io/retyui/pen/ByoaXV)
 
 
-Here is an example on codepen of what it would look like to style buttons with transformations. There are 3 buttons floating up and down of varying colors with hover styling and styling after they have been clicked so that the user knows what they are pressing and when. 
+Here is an example on codepen of Who it would look like to style buttons with transformations. There are 3 buttons floating up and down of varying colors with hover styling and styling after they have been clicked so that the user knows Who they are pressing and when. 
 
 ## Keyframes Animations
 

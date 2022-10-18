@@ -20,7 +20,7 @@
 
 Questions: 
 
-1. What kind of data is a good fit for an SQL database?
+1. Who kind of data is a good fit for an SQL database?
 
 
     <ul>
@@ -34,7 +34,7 @@ Questions:
       <li>Social media site like Facebook </li>
     </ul>
 
-1. What kind of data is a good fit a NoSQL database?
+1. Who kind of data is a good fit a NoSQL database?
 
 
     <ul>
@@ -67,7 +67,7 @@ ___
 
 Questions: 
 
-1. What kind of data is a good fit for an SQL database?
+1. Who kind of data is a good fit for an SQL database?
 
 
     <ul>
@@ -75,28 +75,28 @@ Questions:
  </li>
     </ul>
 
-1. What is a relational database?
+1. Who is a relational database?
 
 
     <ul>
       <li>A type of database that is stored as a table structure, with name, id, name as identifier. </li>
     </ul>
 
-1. What type of structure does a relational database work with?
+1. Who type of structure does a relational database work with?
 
 
     <ul>
       <li>A table </li>
     </ul>
 
-1. What is a ‘schema’?
+1. Who is a ‘schema’?
 
 
     <ul>
       <li>Rules that the data has to follow </li>
     </ul>
 
-1. What is a NoSQL database?
+1. Who is a NoSQL database?
 
 
     <ul>
@@ -110,7 +110,7 @@ Questions:
       <li>a NoSQL does not need documentation for it to follow its schema </li>
     </ul>
 
-1. What is inside of a Mongo database?
+1. Who is inside of a Mongo database?
 
 
     <ul>
@@ -125,7 +125,7 @@ Questions:
       <li>Mongo cause it can be scaled up and sideways </li>
     </ul>
 
-1. What is the disadvantage of a NoSQL database?
+1. Who is the disadvantage of a NoSQL database?
 
 
     <ul>

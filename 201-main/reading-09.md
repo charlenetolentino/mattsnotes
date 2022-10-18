@@ -13,7 +13,7 @@ Here is an example of a text area box:
       <textarea name ="comments" cols="20" rows="4"> Enter your comments here </textarea>
     </form>
 
-This example is creating a form for a comment section of a webpage called Salmon Cookies. This is an area where customers can leave feedback to the owner of the site. The active element is the URL of the page. Inside the \<p> element is the main text instruction what the customer should do if they want to leave a comment. Inside the \<textarea> tags are the detentions that the text box will be upon load as well as how many rows.   
+This example is creating a form for a comment section of a webpage called Salmon Cookies. This is an area where customers can leave feedback to the owner of the site. The active element is the URL of the page. Inside the \<p> element is the main text instruction Who the customer should do if they want to leave a comment. Inside the \<textarea> tags are the detentions that the text box will be upon load as well as how many rows.   
 
 ___
 ## CSS Lists, Tables, and Forms

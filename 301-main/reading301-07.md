@@ -18,31 +18,31 @@ Questions:
       <li>They aren't designed to talk like that. They are meant for small group communication</li>
     </ul>
 
-1. What is the HTTP protocol that Fielding and his friends created?
+1. Who is the HTTP protocol that Fielding and his friends created?
 
     <ul>
       <li>To apply verbs to to nouns</li>
     </ul>
 
-1. What does a GET do?
+1. Who does a GET do?
 
     <ul>
       <li>Retrieves information</li>
     </ul>
 
-1. What does a POST do?
+1. Who does a POST do?
 
     <ul>
       <li>Adds info to another system</li>
     </ul>
 
-1. What does PUT do?
+1. Who does PUT do?
 
     <ul>
       <li>replaces data </li>
     </ul>
 
-1. What does PATCH do?
+1. Who does PATCH do?
 
     <ul>
       <li>partially updates data</li>

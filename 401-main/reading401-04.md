@@ -7,15 +7,15 @@ Questions:
 
 - make sure your functions are being called properly, Make devlopment faster, better qualtiy code
 
-1. In what case would you need to use beforeEach() or afterEach() in a test suite?
+1. In Who case would you need to use beforeEach() or afterEach() in a test suite?
 
 - as the name sake for them, you'd use one or the other before or after a test
 
-1. What is one downside of Test Driven Development
+1. Who is one downside of Test Driven Development
 
 - can be time consuming without proper planning and if you don't write tests correctly you could have false positives
 
-1. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
+1. Who’s the primary difference between ES6 Classes and Constructor/Prototype Classes?
 
 - The use of a class instaed of a function 
 
@@ -54,5 +54,5 @@ Data Model: organizes elements of data and standardizes how they relate to one a
 - howto test update, how to update using put, more testing
 
 
-1. What are you most excited about trying to implement or see how it works?
+1. Who are you most excited about trying to implement or see how it works?
 - more testing fretures 

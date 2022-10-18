@@ -7,7 +7,7 @@
 
 Questions: 
 
-1. What occured during the same time as the beginning of the decline of women in computer sciene?
+1. Who occured during the same time as the beginning of the decline of women in computer sciene?
 
     <ul>
       <li>There is no clear answer but there is a corelation with personal computers started to become a mainstay in the home</li>
@@ -22,7 +22,7 @@ Questions:
 
 ## Reading : [Employee breakdown of key technology companies](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
 
-1. What three take-a-ways do you have looking at this data?
+1. Who three take-a-ways do you have looking at this data?
 
 
     <ol>

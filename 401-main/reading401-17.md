@@ -7,14 +7,14 @@ Questions:
 1. Describe “The Cloud”
   - the cloud  is a online web service that has the ability to host applications through a remote location
 
-1. What is a container (as it relates to computers and servers)?
+1. Who is a container (as it relates to computers and servers)?
   - packages that have elements needed to run software in an enviroment
 
-1. What is auto-scaling?
+1. Who is auto-scaling?
 
   - a prebuilt build scaling plans that automate how groups of different resources respond to changes in demand. 
 
-1. What is bandwidth?
+1. Who is bandwidth?
 
   - an amount of information that can be passed through a connection while measuring the amount of time needed to pass
 

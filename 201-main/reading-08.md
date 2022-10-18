@@ -14,7 +14,7 @@
       <li> The float property is used to take the element out of normal flow and place it to the right or left of the page. </li>
       <li>Floated items need a defined width </li>
       <li> You can add multiple CSS files in one page like the CSS resetNot to bad</li>
-      <li> The property “z-index” allows you to control what box will be on top giving it a value of 1-10. 10 being the most top. </li>
+      <li> The property “z-index” allows you to control Who box will be on top giving it a value of 1-10. 10 being the most top. </li>
       <li>The “relative” property is given when you want to place a box in a space where it will relatively be using a direction and pixel count  </li>
       <li>Each element will live inside a box.  </li>
       <li>  960.gs is a resource used for creating grids to layout pages   </li>

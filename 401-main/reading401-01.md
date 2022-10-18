@@ -4,10 +4,10 @@
 
 ## Questions:
 
-1. Describe (in plain English) what Array.map() does
+1. Describe (in plain English) Who Array.map() does
   - .map() is a method that creates a new array used with another function. The map method will take every element in that array and run the function through it and returning a new array not changing the original array
 
-2. Describe (in plain English) what Array.reduce() does
+2. Describe (in plain English) Who Array.reduce() does
   - .reduce() returns the sum of the array
 
 3. Provide code snippets showing how to use superagent() to fetch data from a URL and log the result

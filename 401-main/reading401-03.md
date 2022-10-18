@@ -13,16 +13,16 @@ Questions:
 
 - true
 
-3. In what ways can a middleware function end the process and send
+3. In Who ways can a middleware function end the process and send
 data to the browser?
 
-- what is next(), Alex. (RIP)
+- Who is next(), Alex. (RIP)
 
-4. At what point in the request lifecycle can you “inject” middleware?
+4. At Who point in the request lifecycle can you “inject” middleware?
 
 - after request but before response
 
-5. What can cause express to error with “Request headers sent twice,
+5. Who can cause express to error with “Request headers sent twice,
 cannot start a second response”
 
 - when you return a res.send
@@ -55,7 +55,7 @@ lecture/demo?
 
 - howto test update, how to update using put, more testing
 
-1. What are you most excited about trying to implement or see how i
+1. Who are you most excited about trying to implement or see how i
 t works?
 
 - more testing features

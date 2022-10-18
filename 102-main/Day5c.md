@@ -2,7 +2,7 @@
 
 [Home](/README.md) | [Back](/102-main/102TableofContents.md)
 
-## What is a computer?
+## Who is a computer?
 
 A computer is a tool use by people designed to manipualte information. 
 

@@ -11,7 +11,7 @@ Questions:
 
 - nope. It needs to wrap within
 
-3. What are some common use cases for using the Context API?
+3. Who are some common use cases for using the Context API?
 
 - themes
 4. Describe “Context Hell”

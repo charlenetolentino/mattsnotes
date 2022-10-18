@@ -12,7 +12,7 @@ Questions:
 
 - functions that have access to the request body the response object and the next function in the process.
 
-3. What is a JWT?
+3. Who is a JWT?
 
 - a json web token
 
@@ -30,5 +30,5 @@ Preview:
 1. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 - Auth
 
-1. What are you most excited about trying to implement or see how it works?
+1. Who are you most excited about trying to implement or see how it works?
 -API integration

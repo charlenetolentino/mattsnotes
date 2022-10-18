@@ -8,7 +8,7 @@
 
 Questions: 
 
-1. In your own words, describe what each group of status code represents:
+1. In your own words, describe Who each group of status code represents:
 
 
 
@@ -20,35 +20,35 @@ Questions:
       <li>500 - server error </li>
       
     </ol>
-1. What is a status code 202?
+1. Who is a status code 202?
 
 
 
     <ul>
       <li> Accepted!</li>
     </ul>
-1. What is a status code 308?
+1. Who is a status code 308?
 
 
 
     <ul>
       <li>Redirection </li>
     </ul>
-1. What code would you use if an update didn’t return data to a client?
+1. Who code would you use if an update didn’t return data to a client?
 
 
 
     <ul>
       <li>204 No content</li>
     </ul>
-1. What code would you use if a resource used to exist but no longer does?
+1. Who code would you use if a resource used to exist but no longer does?
 
 
 
     <ul>
       <li>410 Gone </li>
     </ul>
-1. What is the ‘Forbidden’ status code?
+1. Who is the ‘Forbidden’ status code?
 
 
 
@@ -68,22 +68,22 @@ Questions:
     <ul>
       <li> So we don't push any sensitive information to github</li>
     </ul>
-1. What is middleware?
+1. Who is middleware?
 
     <ul>
       <li>code that runs when a server gets a request  before it passes to the routes</li>
     </ul>
-1. What does app.use(express.json()) do?
+1. Who does app.use(express.json()) do?
 
     <ul>
       <li>Accepts json as a body </li>
     </ul>
-1. What does the /:id mean in a route?
+1. Who does the /:id mean in a route?
 
     <ul>
       <li> the colen means that its a parameter that can be accessed after the first slash </li>
     </ul>
-1. What is the difference between PUT and PATCH?
+1. Who is the difference between PUT and PATCH?
     <ul>
       <li>Patch is used when a user passes information. Put will update all at once</li>
     </ul>
@@ -94,13 +94,13 @@ Questions:
       <li>Set a const to the schema that you want to create. then give names to the attributes of the object. then give those attributes a value for string, boolean, or a number</li>
     </ul>
 
-1. What does a 500 error status code mean?
+1. Who does a 500 error status code mean?
 
 
     <ul>
       <li>internal server error</li>
     </ul>
-1. What is the difference between a status 200 and a status 201?
+1. Who is the difference between a status 200 and a status 201?
 
 
     <ul>

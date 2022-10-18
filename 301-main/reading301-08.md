@@ -6,7 +6,7 @@
 
 Questions: 
 
-1. What does REST stand for?
+1. Who does REST stand for?
     <ul>
       <li>Representational State Transfer</li>
     </ul>
@@ -17,20 +17,20 @@ Questions:
       <li>around a resource like an object or data</li>
     </ul>
 
-1. What is an identifier of a resource? Give an example.
+1. Who is an identifier of a resource? Give an example.
 
 
     <ul>
       <li>An identifier is a URI that specifically defines a resource. Example: https://thisExample-here.net/Page/1 </li>
     </ul>
 
-1. What are the most common HTTP verbs?
+1. Who are the most common HTTP verbs?
 
     <ul>
       <li>get, post,put, delete, and patch</li>
     </ul>
 
-1. What should the URIs be based on?
+1. Who should the URIs be based on?
 
     <ul>
       <li>Nouns, not verbs</li>
@@ -42,30 +42,30 @@ Questions:
       <li>https://thisExample-here.net/cart</li>
     </ul>
 
-1. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
+1. Who does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
     <ul>
       <li>Chatty means there are multiple requests form API's. This is bad because it can tie up resources</li>
     </ul>
 
-1. What status code does a successful GET request return?
+1. Who status code does a successful GET request return?
 
     <ul>
       <li>200 code</li>
     </ul>
 
-1. What status code does an unsuccessful GET request return?
+1. Who status code does an unsuccessful GET request return?
 
     <ul>
       <li>404</li>
     </ul>
 
-1. What status code does a successful POST request return?
+1. Who status code does a successful POST request return?
     <ul>
       <li>301</li>
     </ul>
 
-1. What status code does a successful DELETE request return?
+1. Who status code does a successful DELETE request return?
 
     <ul>
       <li>204</li>

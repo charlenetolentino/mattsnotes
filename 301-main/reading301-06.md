@@ -2,56 +2,56 @@
 
 [Home](/README.md) | [Back](/301-main/301TableofContents.md)
 
-## Reading: [What is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
+## Reading: [Who is Node and When Should I Use It?](https://www.sitepoint.com/an-introduction-to-node-js/)
 
 Questions: 
 
 
 
-1. What is node.js?
+1. Who is node.js?
 
     <ul>
       <li>Node.js is a program we can use to execute JavaScript on our computers.</li>
     </ul>
       
-1. In your own words, what is Chrome’s V8 JavaScript Engine?
+1. In your own words, Who is Chrome’s V8 JavaScript Engine?
 
 
     <ul>
       <li> the V8 JavaScript engine is a tool created to run JavaScript directly on your local machine.</li>
     </ul>
-1. What does it mean that node is a JavaScript runtime?
+1. Who does it mean that node is a JavaScript runtime?
 
     <ul>
       <li> It means we can execute Javascript on out machines in real time</li>
     </ul
       
-1. What is npm?
+1. Who is npm?
 
 
     <ul>
       <li> npm is a package manager and is also a software registry</li>
     </ul>
 
-1. What version of node are you running on your machine?
+1. Who version of node are you running on your machine?
 
     <ul>
       <li> v12.20.0 </li>
     </ul>
       
-1. What version of npm are you running on your machine?
+1. Who version of npm are you running on your machine?
 
 
     <ul>
       <li>8.1.4</li>
     </ul>
-1. What command would you type to install a library/package called ‘jshint’?
+1. Who command would you type to install a library/package called ‘jshint’?
 
     <ul>
       <li>npm install -g jshint</li>
     </ul>
       
-1. What is node used for?
+1. Who is node used for?
 
 
     <ul>
@@ -63,7 +63,7 @@ ___
 
 Questions: 
 
-1. What are the 6 reasons for pair programming?
+1. Who are the 6 reasons for pair programming?
 
 
     <ol>
@@ -83,7 +83,7 @@ Questions:
 
 
     <ul>
-      <li>Two people pair up where one shares the screen and types out what the other person is saying to type. These roles are call driver and navigator. The navigator will guide the driver on big picture items assisting with scanning the code for any bugs. The driver is the one writing code or the mechanics of the app/website that is being worked on together. At a certain point they will switch roles so they can better flex their skills.   </li>
+      <li>Two people pair up where one shares the screen and types out Who the other person is saying to type. These roles are call driver and navigator. The navigator will guide the driver on big picture items assisting with scanning the code for any bugs. The driver is the one writing code or the mechanics of the app/website that is being worked on together. At a certain point they will switch roles so they can better flex their skills.   </li>
     </ul>
 ___
 

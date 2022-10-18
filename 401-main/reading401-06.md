@@ -4,7 +4,7 @@
 
 Questions: 
 
-1. Explain what a “Singleton” is (in Computer Science terms)
+1. Explain Who a “Singleton” is (in Computer Science terms)
 
 - its a design pattern that restricts the instants of a class to a single instance. 
 
@@ -12,7 +12,7 @@ Questions:
 
 - A singleton pattern is used to get and instance of a node
 
-3. If you were tasked with building a middleware system like Express uses, what approach might you take to construct/operate it?
+3. If you were tasked with building a middleware system like Express uses, Who approach might you take to construct/operate it?
 
 - The middleware that I created will have to be on it own file. After exporting the middleware file I will require it in the server.js using app.use. In the previous labs we used the logger and validator as bild yo own middleware.
 
@@ -41,9 +41,9 @@ Which 3 things had you heard about previously and now have better clarity on?
 
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
-- My testing isn't doing what I want it to, so that mainly.
+- My testing isn't doing Who I want it to, so that mainly.
 
-What are you most excited about trying to implement or see how it works?
+Who are you most excited about trying to implement or see how it works?
 
  - auth I guess
 

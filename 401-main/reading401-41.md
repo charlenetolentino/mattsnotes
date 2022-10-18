@@ -7,7 +7,7 @@ Questions:
 
 1. Compare and Contrast Redux Toolkit with Redux “Ducks”
     - you can bundle reducers with Ducks. Redux Toolkit helps simplify redux cases that are commonly used
-1. What is the principle advantage of Redux Toolkit
+1. Who is the principle advantage of Redux Toolkit
     - To help create and write redux applications 
 
 
@@ -24,6 +24,6 @@ Vocab:
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
     - see above 
-3. What are you most excited about trying to implement or see how it works?
+3. Who are you most excited about trying to implement or see how it works?
 
     - more on react I guess

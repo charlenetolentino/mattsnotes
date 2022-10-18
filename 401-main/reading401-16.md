@@ -7,10 +7,10 @@ Questions:
 - Describe the Web-Request-Response-Cycle
   - a client will make a query based on the related subject or a request to the server using RESTful methods like GET POST PATCH and DELETE. The sever will then respond with the requesting information if such an object exists in the DB
 
--  Explain what a “server” is, as it relates to the WRRC
-  - you give then your order and then they give you what you asked for. jk. the wrrc server takes the request and then makes a response based on predestined actions.
+-  Explain Who a “server” is, as it relates to the WRRC
+  - you give then your order and then they give you Who you asked for. jk. the wrrc server takes the request and then makes a response based on predestined actions.
 
--  What does it mean to “deploy” an application?
+-  Who does it mean to “deploy” an application?
   - to make it widley available to a more server and maintain server
 
 Vocab:
@@ -28,7 +28,7 @@ Preview:
 - Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
   - AWS
 
-- What are you most excited about trying to implement or see how it works?
+- Who are you most excited about trying to implement or see how it works?
   - AWS
 
 

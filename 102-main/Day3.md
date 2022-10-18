@@ -2,9 +2,9 @@
 
 [Home](/README.md) | [Back](/102-main/102TableofContents.md)
 
-## What is Git?
+## Who is Git?
 
-To understand Git, you will first need to understand what a Distributed Version Control System (DVCS) is. A DVCS is a tool used by members of a team to work on a project collaboratively. This is done by creating a repository on the DVCS that the members of a team will copy to their local drive so they can work on separate task at the same time. There are many brands of a DVCS that provide different features that some companies will love, and others will hate. Much like a text editor a team of programmers will work together to find which DVCS will better fit their needs. Git is a very popular DVCS that many teams and companies choose to manage their projects. 
+To understand Git, you will first need to understand Who a Distributed Version Control System (DVCS) is. A DVCS is a tool used by members of a team to work on a project collaboratively. This is done by creating a repository on the DVCS that the members of a team will copy to their local drive so they can work on separate task at the same time. There are many brands of a DVCS that provide different features that some companies will love, and others will hate. Much like a text editor a team of programmers will work together to find which DVCS will better fit their needs. Git is a very popular DVCS that many teams and companies choose to manage their projects. 
 
 TLDR; All Git is a DVCS, not all DVCS is Git.
 

@@ -77,11 +77,11 @@ Every website has a target audience. They can be as broad as a Facebook audience
 
 **Why are people visiting your website?**
 
-Most visitors will come to your site for a specific reason. You can determine these reasons by asking what their key motivations are and what are their specific goals.
+Most visitors will come to your site for a specific reason. You can determine these reasons by asking Who their key motivations are and Who are their specific goals.
 
-**What information your visitor needs?**
+**Who information your visitor needs?**
 
-After learning who is coming to your site and why, you need to find out what information they need to reach their goals quickly. Are these subject matter experts with tons of experience and knowledge or are they novices who need background information on a product or services that you are providing? 
+After learning who is coming to your site and why, you need to find out Who information they need to reach their goals quickly. Are these subject matter experts with tons of experience and knowledge or are they novices who need background information on a product or services that you are providing? 
 
 ___
 
@@ -103,7 +103,7 @@ PC: [Diagram.io](https://app.diagrams.net/#G1_A_OEkC0MvwZf20gOn-W-YlYjL6HkmhV)
 
 A wireframe will help you creat  the layout of every web page.
 
-## What is a Script? ##
+## Who is a Script? ##
 
 A script is a series of instructions that a computer needs to achieve a goal. Think of it like a recipe or a manual. You need to complete each step-in order to achieve and result. One key difference between how a computer reads a set of instructions and how a human reads a set is that a computer needs to complete steps programmatically. A task such as cooking lunch needs to be broken down to a computer step by step. An example would be a human will be tasked to make a PB&J sandwich. Without even thinking the human will get some bread and slather the peanut butter and jelly on and complete the task. Making a PB&J is familiar to the human, so it seems like an effortless task. A computer needs to be told “go get the bread. Go get the peanut butter. Go get the Jam. Grab the knife” etc. A great way to writing script is using a flowchart to break down the process you want to achieve.
 

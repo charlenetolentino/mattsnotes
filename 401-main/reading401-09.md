@@ -4,11 +4,11 @@
 
 Questions:
 
-1. What header(s) are used in authentication and authorization
+1. Who header(s) are used in authentication and authorization
 
   - basic credentials 
 
-1. What is safe to put into a JWT
+1. Who is safe to put into a JWT
 
   - username password and roles
 
@@ -31,5 +31,5 @@ Which 3 things had you heard about previously and now have better clarity on?
 Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
  - making th requests on the last lab
 
-What are you most excited about trying to implement or see how it works?
+Who are you most excited about trying to implement or see how it works?
   - idk, eveything scares me atm

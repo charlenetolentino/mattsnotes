@@ -8,13 +8,13 @@ Questions:
 
   - Basic is used to get username and password initally where Bearer is used throught the page as tokens.
   
-2. What does the JSON Web Token package do?
+2. Who does the JSON Web Token package do?
 
   - a JSON Web Token or JWT is a scrutred wat to move information between files as JSON objects
 
-3. What considerations should we make when creating and storing a SECRET?
+3. Who considerations should we make when creating and storing a SECRET?
 
-  - What is adding to .env file, Alex.
+  - Who is adding to .env file, Alex.
 
 
 Vocab:
@@ -35,7 +35,7 @@ Preview:
 
   - tbh monday lab but I can wait until the weekend or something
 
-- What are you most excited about trying to implement or see how it works?
+- Who are you most excited about trying to implement or see how it works?
 
   - idk, this week has been tough
 
